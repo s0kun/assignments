@@ -1,0 +1,3808 @@
+0, continent, Europe
+0, country, Vatican-City
+0, population, 799
+0, cases, new, None
+0, cases, active, 0
+0, cases, critical, None
+0, cases, recovered, 29
+0, cases, 1M_pop, 36295
+0, cases, total, 29
+0, deaths, new, None
+0, deaths, 1M_pop, None
+0, deaths, total, None
+0, tests, 1M_pop, None
+0, tests, total, None
+0, day, 2024-03-25
+0, time, 2024-03-25T09:45:18+00:00
+1, continent, Africa
+1, country, Western-Sahara
+1, population, 626161
+1, cases, new, None
+1, cases, active, 0
+1, cases, critical, None
+1, cases, recovered, 9
+1, cases, 1M_pop, 16
+1, cases, total, 10
+1, deaths, new, None
+1, deaths, 1M_pop, 2
+1, deaths, total, 1
+1, tests, 1M_pop, None
+1, tests, total, None
+1, day, 2024-03-25
+1, time, 2024-03-25T09:45:18+00:00
+2, continent, None
+2, country, MS-Zaandam
+2, population, None
+2, cases, new, None
+2, cases, active, 0
+2, cases, critical, None
+2, cases, recovered, 7
+2, cases, 1M_pop, None
+2, cases, total, 9
+2, deaths, new, None
+2, deaths, 1M_pop, None
+2, deaths, total, 2
+2, tests, 1M_pop, None
+2, tests, total, None
+2, day, 2024-03-25
+2, time, 2024-03-25T09:45:18+00:00
+3, continent, Asia
+3, country, China
+3, population, 1448471400
+3, cases, new, None
+3, cases, active, 118977
+3, cases, critical, None
+3, cases, recovered, 379053
+3, cases, 1M_pop, 347
+3, cases, total, 503302
+3, deaths, new, None
+3, deaths, 1M_pop, 4
+3, deaths, total, 5272
+3, tests, 1M_pop, 110461
+3, tests, total, 160000000
+3, day, 2024-03-25
+3, time, 2024-03-25T09:45:18+00:00
+4, continent, Oceania
+4, country, Tokelau
+4, population, 1378
+4, cases, new, None
+4, cases, active, 80
+4, cases, critical, None
+4, cases, recovered, None
+4, cases, 1M_pop, 58055
+4, cases, total, 80
+4, deaths, new, None
+4, deaths, 1M_pop, None
+4, deaths, total, None
+4, tests, 1M_pop, None
+4, tests, total, None
+4, day, 2024-03-25
+4, time, 2024-03-25T09:45:18+00:00
+5, continent, Africa
+5, country, Saint-Helena
+5, population, 6115
+5, cases, new, None
+5, cases, active, 2164
+5, cases, critical, None
+5, cases, recovered, 2
+5, cases, 1M_pop, 354211
+5, cases, total, 2166
+5, deaths, new, None
+5, deaths, 1M_pop, None
+5, deaths, total, None
+5, tests, 1M_pop, None
+5, tests, total, None
+5, day, 2024-03-25
+5, time, 2024-03-25T09:45:17+00:00
+6, continent, South-America
+6, country, Falkland-Islands
+6, population, 3539
+6, cases, new, None
+6, cases, active, 0
+6, cases, critical, None
+6, cases, recovered, 1930
+6, cases, 1M_pop, 545352
+6, cases, total, 1930
+6, deaths, new, None
+6, deaths, 1M_pop, None
+6, deaths, total, None
+6, tests, 1M_pop, 2439107
+6, tests, total, 8632
+6, day, 2024-03-25
+6, time, 2024-03-25T09:45:17+00:00
+7, continent, North-America
+7, country, Montserrat
+7, population, 4965
+7, cases, new, None
+7, cases, active, 19
+7, cases, critical, None
+7, cases, recovered, 1376
+7, cases, 1M_pop, 282578
+7, cases, total, 1403
+7, deaths, new, None
+7, deaths, 1M_pop, 1611
+7, deaths, total, 8
+7, tests, 1M_pop, 3577442
+7, tests, total, 17762
+7, day, 2024-03-25
+7, time, 2024-03-25T09:45:17+00:00
+8, continent, None
+8, country, Diamond-Princess
+8, population, None
+8, cases, new, None
+8, cases, active, 0
+8, cases, critical, None
+8, cases, recovered, 699
+8, cases, 1M_pop, None
+8, cases, total, 712
+8, deaths, new, None
+8, deaths, 1M_pop, None
+8, deaths, total, 13
+8, tests, 1M_pop, None
+8, tests, total, None
+8, day, 2024-03-25
+8, time, 2024-03-25T09:45:17+00:00
+9, continent, Africa
+9, country, Liberia
+9, population, 5305117
+9, cases, new, None
+9, cases, active, 12
+9, cases, critical, 2
+9, cases, recovered, 7783
+9, cases, 1M_pop, 1525
+9, cases, total, 8090
+9, deaths, new, None
+9, deaths, 1M_pop, 56
+9, deaths, total, 295
+9, tests, 1M_pop, 26356
+9, tests, total, 139824
+9, day, 2024-03-25
+9, time, 2024-03-25T09:45:17+00:00
+10, continent, Oceania
+10, country, Nauru
+10, population, 10903
+10, cases, new, None
+10, cases, active, 45
+10, cases, critical, None
+10, cases, recovered, 5347
+10, cases, 1M_pop, 494635
+10, cases, total, 5393
+10, deaths, new, None
+10, deaths, 1M_pop, 92
+10, deaths, total, 1
+10, tests, 1M_pop, 1881042
+10, tests, total, 20509
+10, day, 2024-03-25
+10, time, 2024-03-25T09:45:17+00:00
+11, continent, Africa
+11, country, Chad
+11, population, 17413580
+11, cases, new, None
+11, cases, active, 2633
+11, cases, critical, None
+11, cases, recovered, 4874
+11, cases, 1M_pop, 442
+11, cases, total, 7701
+11, deaths, new, None
+11, deaths, 1M_pop, 11
+11, deaths, total, 194
+11, tests, 1M_pop, 10988
+11, tests, total, 191341
+11, day, 2024-03-25
+11, time, 2024-03-25T09:45:17+00:00
+12, continent, Oceania
+12, country, Wallis-and-Futuna
+12, population, 10982
+12, cases, new, None
+12, cases, active, 3104
+12, cases, critical, None
+12, cases, recovered, 438
+12, cases, 1M_pop, 323256
+12, cases, total, 3550
+12, deaths, new, None
+12, deaths, 1M_pop, 728
+12, deaths, total, 8
+12, tests, 1M_pop, 1867419
+12, tests, total, 20508
+12, day, 2024-03-25
+12, time, 2024-03-25T09:45:17+00:00
+13, continent, North-America
+13, country, St-Barth
+13, population, 9945
+13, cases, new, None
+13, cases, active, None
+13, cases, critical, None
+13, cases, recovered, None
+13, cases, 1M_pop, 553746
+13, cases, total, 5507
+13, deaths, new, None
+13, deaths, 1M_pop, 603
+13, deaths, total, 6
+13, tests, 1M_pop, 7908095
+13, tests, total, 78646
+13, day, 2024-03-25
+13, time, 2024-03-25T09:45:17+00:00
+14, continent, North-America
+14, country, Saint-Kitts-and-Nevis
+14, population, 53871
+14, cases, new, None
+14, cases, active, 0
+14, cases, critical, None
+14, cases, recovered, 6559
+14, cases, 1M_pop, 122645
+14, cases, total, 6607
+14, deaths, new, None
+14, deaths, 1M_pop, 891
+14, deaths, total, 48
+14, tests, 1M_pop, 2356704
+14, tests, total, 126958
+14, day, 2024-03-25
+14, time, 2024-03-25T09:45:17+00:00
+15, continent, Oceania
+15, country, Kiribati
+15, population, 123419
+15, cases, new, None
+15, cases, active, 2358
+15, cases, critical, 3
+15, cases, recovered, 2703
+15, cases, 1M_pop, 41201
+15, cases, total, 5085
+15, deaths, new, None
+15, deaths, 1M_pop, 194
+15, deaths, total, 24
+15, tests, 1M_pop, None
+15, tests, total, None
+15, day, 2024-03-25
+15, time, 2024-03-25T09:45:17+00:00
+16, continent, North-America
+16, country, Anguilla
+16, population, 15230
+16, cases, new, None
+16, cases, active, None
+16, cases, critical, None
+16, cases, recovered, None
+16, cases, 1M_pop, 256336
+16, cases, total, 3904
+16, deaths, new, None
+16, deaths, 1M_pop, 788
+16, deaths, total, 12
+16, tests, 1M_pop, 3373736
+16, tests, total, 51382
+16, day, 2024-03-25
+16, time, 2024-03-25T09:45:17+00:00
+17, continent, North-America
+17, country, Saint-Pierre-Miquelon
+17, population, 5759
+17, cases, new, None
+17, cases, active, 1001
+17, cases, critical, None
+17, cases, recovered, 2449
+17, cases, 1M_pop, 599410
+17, cases, total, 3452
+17, deaths, new, None
+17, deaths, 1M_pop, 347
+17, deaths, total, 2
+17, tests, 1M_pop, 4410488
+17, tests, total, 25400
+17, day, 2024-03-25
+17, time, 2024-03-25T09:45:17+00:00
+18, continent, North-America
+18, country, Antigua-and-Barbuda
+18, population, 99509
+18, cases, new, None
+18, cases, active, 6
+18, cases, critical, None
+18, cases, recovered, 8954
+18, cases, 1M_pop, 91509
+18, cases, total, 9106
+18, deaths, new, None
+18, deaths, 1M_pop, 1467
+18, deaths, total, 146
+18, tests, 1M_pop, 189943
+18, tests, total, 18901
+18, day, 2024-03-25
+18, time, 2024-03-25T09:45:17+00:00
+19, continent, Oceania
+19, country, Tuvalu
+19, population, 12066
+19, cases, new, None
+19, cases, active, None
+19, cases, critical, None
+19, cases, recovered, None
+19, cases, 1M_pop, 243909
+19, cases, total, 2943
+19, deaths, new, None
+19, deaths, 1M_pop, 83
+19, deaths, total, 1
+19, tests, 1M_pop, None
+19, tests, total, None
+19, day, 2024-03-25
+19, time, 2024-03-25T09:45:17+00:00
+20, continent, North-America
+20, country, British-Virgin-Islands
+20, population, 30596
+20, cases, new, None
+20, cases, active, None
+20, cases, critical, None
+20, cases, recovered, None
+20, cases, 1M_pop, 241600
+20, cases, total, 7392
+20, deaths, new, None
+20, deaths, 1M_pop, 2092
+20, deaths, total, 64
+20, tests, 1M_pop, 3508269
+20, tests, total, 107339
+20, day, 2024-03-25
+20, time, 2024-03-25T09:45:17+00:00
+21, continent, Oceania
+21, country, Cook-Islands
+21, population, 17571
+21, cases, new, None
+21, cases, active, 51
+21, cases, critical, None
+21, cases, recovered, 7150
+21, cases, 1M_pop, 409937
+21, cases, total, 7203
+21, deaths, new, None
+21, deaths, 1M_pop, 114
+21, deaths, total, 2
+21, tests, 1M_pop, 1120596
+21, tests, total, 19690
+21, day, 2024-03-25
+21, time, 2024-03-25T09:45:17+00:00
+22, continent, Africa
+22, country, Sierra-Leone
+22, population, 8306436
+22, cases, new, None
+22, cases, active, None
+22, cases, critical, None
+22, cases, recovered, None
+22, cases, 1M_pop, 937
+22, cases, total, 7779
+22, deaths, new, None
+22, deaths, 1M_pop, 15
+22, deaths, total, 126
+22, tests, 1M_pop, 31296
+22, tests, total, 259958
+22, day, 2024-03-25
+22, time, 2024-03-25T09:45:17+00:00
+23, continent, Oceania
+23, country, Niue
+23, population, 1622
+23, cases, new, None
+23, cases, active, 3
+23, cases, critical, None
+23, cases, recovered, 1056
+23, cases, 1M_pop, 652898
+23, cases, total, 1059
+23, deaths, new, None
+23, deaths, 1M_pop, None
+23, deaths, total, None
+23, tests, 1M_pop, None
+23, tests, total, None
+23, day, 2024-03-25
+23, time, 2024-03-25T09:45:17+00:00
+24, continent, Oceania
+24, country, Palau
+24, population, 18233
+24, cases, new, +11
+24, cases, active, 4
+24, cases, critical, None
+24, cases, recovered, 6276
+24, cases, 1M_pop, 344979
+24, cases, total, 6290
+24, deaths, new, None
+24, deaths, 1M_pop, 548
+24, deaths, total, 10
+24, tests, 1M_pop, 3917841
+24, tests, total, 71434
+24, day, 2024-03-25
+24, time, 2024-03-25T09:45:17+00:00
+25, continent, Africa
+25, country, Sao-Tome-and-Principe
+25, population, 227679
+25, cases, new, +5
+25, cases, active, 5
+25, cases, critical, None
+25, cases, recovered, 6672
+25, cases, 1M_pop, 29678
+25, cases, total, 6757
+25, deaths, new, None
+25, deaths, 1M_pop, 351
+25, deaths, total, 80
+25, tests, 1M_pop, 130008
+25, tests, total, 29600
+25, day, 2024-03-25
+25, time, 2024-03-25T09:45:17+00:00
+26, continent, North-America
+26, country, Turks-and-Caicos
+26, population, 39741
+26, cases, new, +3
+26, cases, active, 3
+26, cases, critical, 4
+26, cases, recovered, 6709
+26, cases, 1M_pop, 169900
+26, cases, total, 6752
+26, deaths, new, None
+26, deaths, 1M_pop, 1007
+26, deaths, total, 40
+26, tests, 1M_pop, 15520193
+26, tests, total, 616788
+26, day, 2024-03-25
+26, time, 2024-03-25T09:45:17+00:00
+27, continent, Africa
+27, country, Djibouti
+27, population, 1016097
+27, cases, new, None
+27, cases, active, 74
+27, cases, critical, None
+27, cases, recovered, 15427
+27, cases, 1M_pop, 15441
+27, cases, total, 15690
+27, deaths, new, None
+27, deaths, 1M_pop, 186
+27, deaths, total, 189
+27, tests, 1M_pop, 301094
+27, tests, total, 305941
+27, day, 2024-03-25
+27, time, 2024-03-25T09:45:16+00:00
+28, continent, North-America
+28, country, Greenland
+28, population, 56973
+28, cases, new, None
+28, cases, active, 9189
+28, cases, critical, 4
+28, cases, recovered, 2761
+28, cases, 1M_pop, 210117
+28, cases, total, 11971
+28, deaths, new, None
+28, deaths, 1M_pop, 369
+28, deaths, total, 21
+28, tests, 1M_pop, 2894810
+28, tests, total, 164926
+28, day, 2024-03-25
+28, time, 2024-03-25T09:45:16+00:00
+29, continent, Africa
+29, country, Eritrea
+29, population, 3662244
+29, cases, new, None
+29, cases, active, 0
+29, cases, critical, None
+29, cases, recovered, 10086
+29, cases, 1M_pop, 2782
+29, cases, total, 10189
+29, deaths, new, None
+29, deaths, 1M_pop, 28
+29, deaths, total, 103
+29, tests, 1M_pop, 6470
+29, tests, total, 23693
+29, day, 2024-03-25
+29, time, 2024-03-25T09:45:16+00:00
+30, continent, Africa
+30, country, Niger
+30, population, 26083660
+30, cases, new, None
+30, cases, active, 729
+30, cases, critical, 1
+30, cases, recovered, 8890
+30, cases, 1M_pop, 381
+30, cases, total, 9931
+30, deaths, new, None
+30, deaths, 1M_pop, 12
+30, deaths, total, 312
+30, tests, 1M_pop, 9759
+30, tests, total, 254538
+30, day, 2024-03-25
+30, time, 2024-03-25T09:45:16+00:00
+31, continent, North-America
+31, country, Caribbean-Netherlands
+31, population, 26647
+31, cases, new, +3
+31, cases, active, 1168
+31, cases, critical, None
+31, cases, recovered, 10476
+31, cases, 1M_pop, 438398
+31, cases, total, 11682
+31, deaths, new, None
+31, deaths, 1M_pop, 1426
+31, deaths, total, 38
+31, tests, 1M_pop, 1130559
+31, tests, total, 30126
+31, day, 2024-03-25
+31, time, 2024-03-25T09:45:16+00:00
+32, continent, Africa
+32, country, Gambia
+32, population, 2558482
+32, cases, new, +28
+32, cases, active, 65
+32, cases, critical, None
+32, cases, recovered, 12189
+32, cases, 1M_pop, 4935
+32, cases, total, 12626
+32, deaths, new, None
+32, deaths, 1M_pop, 145
+32, deaths, total, 372
+32, tests, 1M_pop, 60851
+32, tests, total, 155686
+32, day, 2024-03-25
+32, time, 2024-03-25T09:45:16+00:00
+33, continent, Africa
+33, country, Comoros
+33, population, 907419
+33, cases, new, None
+33, cases, active, 9
+33, cases, critical, None
+33, cases, recovered, 8939
+33, cases, 1M_pop, 10038
+33, cases, total, 9109
+33, deaths, new, None
+33, deaths, 1M_pop, 177
+33, deaths, total, 161
+33, tests, 1M_pop, None
+33, tests, total, None
+33, day, 2024-03-25
+33, time, 2024-03-25T09:45:16+00:00
+34, continent, Africa
+34, country, Guinea-Bissau
+34, population, 2063367
+34, cases, new, None
+34, cases, active, 508
+34, cases, critical, 6
+34, cases, recovered, 8929
+34, cases, 1M_pop, 4659
+34, cases, total, 9614
+34, deaths, new, None
+34, deaths, 1M_pop, 86
+34, deaths, total, 177
+34, tests, 1M_pop, 70385
+34, tests, total, 145231
+34, day, 2024-03-25
+34, time, 2024-03-25T09:45:16+00:00
+35, continent, Oceania
+35, country, Vanuatu
+35, population, 321832
+35, cases, new, None
+35, cases, active, 29
+35, cases, critical, None
+35, cases, recovered, 11976
+35, cases, 1M_pop, 37346
+35, cases, total, 12019
+35, deaths, new, None
+35, deaths, 1M_pop, 44
+35, deaths, total, 14
+35, tests, 1M_pop, 77606
+35, tests, total, 24976
+35, day, 2024-03-25
+35, time, 2024-03-25T09:45:16+00:00
+36, continent, North-America
+36, country, Sint-Maarten
+36, population, 43966
+36, cases, new, None
+36, cases, active, 54
+36, cases, critical, None
+36, cases, recovered, 10905
+36, cases, 1M_pop, 251353
+36, cases, total, 11051
+36, deaths, new, None
+36, deaths, 1M_pop, 2093
+36, deaths, total, 92
+36, tests, 1M_pop, 1411454
+36, tests, total, 62056
+36, day, 2024-03-25
+36, time, 2024-03-25T09:45:16+00:00
+37, continent, Oceania
+37, country, Marshall-Islands
+37, population, 60057
+37, cases, new, None
+37, cases, active, 0
+37, cases, critical, None
+37, cases, recovered, 16121
+37, cases, 1M_pop, 268711
+37, cases, total, 16138
+37, deaths, new, None
+37, deaths, 1M_pop, 283
+37, deaths, total, 17
+37, tests, 1M_pop, None
+37, tests, total, None
+37, day, 2024-03-25
+37, time, 2024-03-25T09:45:16+00:00
+38, continent, North-America
+38, country, Saint-Martin
+38, population, 39730
+38, cases, new, None
+38, cases, active, None
+38, cases, critical, None
+38, cases, recovered, None
+38, cases, 1M_pop, 310194
+38, cases, total, 12324
+38, deaths, new, None
+38, deaths, 1M_pop, 1586
+38, deaths, total, 63
+38, tests, 1M_pop, 2828643
+38, tests, total, 112382
+38, day, 2024-03-25
+38, time, 2024-03-25T09:45:16+00:00
+39, continent, Asia
+39, country, Yemen
+39, population, 31154867
+39, cases, new, None
+39, cases, active, 662
+39, cases, critical, None
+39, cases, recovered, 9124
+39, cases, 1M_pop, 383
+39, cases, total, 11945
+39, deaths, new, None
+39, deaths, 1M_pop, 69
+39, deaths, total, 2159
+39, tests, 1M_pop, 10579
+39, tests, total, 329592
+39, day, 2024-03-25
+39, time, 2024-03-25T09:45:16+00:00
+40, continent, Europe
+40, country, Monaco
+40, population, 39783
+40, cases, new, None
+40, cases, active, None
+40, cases, critical, None
+40, cases, recovered, None
+40, cases, 1M_pop, 431868
+40, cases, total, 17181
+40, deaths, new, None
+40, deaths, 1M_pop, 1684
+40, deaths, total, 67
+40, tests, 1M_pop, 1976875
+40, tests, total, 78646
+40, day, 2024-03-25
+40, time, 2024-03-25T09:45:16+00:00
+41, continent, North-America
+41, country, St-Vincent-Grenadines
+41, population, 111551
+41, cases, new, None
+41, cases, active, 57
+41, cases, critical, None
+41, cases, recovered, 9493
+41, cases, 1M_pop, 86723
+41, cases, total, 9674
+41, deaths, new, None
+41, deaths, 1M_pop, 1112
+41, deaths, total, 124
+41, tests, 1M_pop, 1023720
+41, tests, total, 114197
+41, day, 2024-03-25
+41, time, 2024-03-25T09:45:16+00:00
+42, continent, Africa
+42, country, CAR
+42, population, 5016678
+42, cases, new, None
+42, cases, active, 127
+42, cases, critical, 2
+42, cases, recovered, 15200
+42, cases, 1M_pop, 3078
+42, cases, total, 15440
+42, deaths, new, None
+42, deaths, 1M_pop, 23
+42, deaths, total, 113
+42, tests, 1M_pop, 16205
+42, tests, total, 81294
+42, day, 2024-03-25
+42, time, 2024-03-25T09:45:16+00:00
+43, continent, North-America
+43, country, Dominica
+43, population, 72344
+43, cases, new, None
+43, cases, active, 0
+43, cases, critical, None
+43, cases, recovered, 15964
+43, cases, 1M_pop, 221691
+43, cases, total, 16038
+43, deaths, new, None
+43, deaths, 1M_pop, 1023
+43, deaths, total, 74
+43, tests, 1M_pop, 3170187
+43, tests, total, 229344
+43, day, 2024-03-25
+43, time, 2024-03-25T09:45:16+00:00
+44, continent, Oceania
+44, country, Samoa
+44, population, 202239
+44, cases, new, None
+44, cases, active, 15370
+44, cases, critical, None
+44, cases, recovered, 1605
+44, cases, 1M_pop, 84089
+44, cases, total, 17006
+44, deaths, new, None
+44, deaths, 1M_pop, 153
+44, deaths, total, 31
+44, tests, 1M_pop, 926612
+44, tests, total, 187397
+44, day, 2024-03-25
+44, time, 2024-03-25T09:45:16+00:00
+45, continent, Oceania
+45, country, Tonga
+45, population, 107749
+45, cases, new, None
+45, cases, active, 1299
+45, cases, critical, None
+45, cases, recovered, 15638
+45, cases, 1M_pop, 157310
+45, cases, total, 16950
+45, deaths, new, None
+45, deaths, 1M_pop, 121
+45, deaths, total, 13
+45, tests, 1M_pop, 4965327
+45, tests, total, 535009
+45, day, 2024-03-25
+45, time, 2024-03-25T09:45:16+00:00
+46, continent, Africa
+46, country, Congo
+46, population, 5797805
+46, cases, new, None
+46, cases, active, 983
+46, cases, critical, None
+46, cases, recovered, 24006
+46, cases, 1M_pop, 4377
+46, cases, total, 25375
+46, deaths, new, None
+46, deaths, 1M_pop, 67
+46, deaths, total, 386
+46, tests, 1M_pop, 59991
+46, tests, total, 347815
+46, day, 2024-03-25
+46, time, 2024-03-25T09:45:15+00:00
+47, continent, North-America
+47, country, Nicaragua
+47, population, 6779100
+47, cases, new, None
+47, cases, active, 14041
+47, cases, critical, None
+47, cases, recovered, 4225
+47, cases, 1M_pop, 2728
+47, cases, total, 18491
+47, deaths, new, None
+47, deaths, 1M_pop, 33
+47, deaths, total, 225
+47, tests, 1M_pop, None
+47, tests, total, None
+47, day, 2024-03-25
+47, time, 2024-03-25T09:45:15+00:00
+48, continent, Asia
+48, country, Tajikistan
+48, population, 9957464
+48, cases, new, None
+48, cases, active, 397
+48, cases, critical, None
+48, cases, recovered, 17264
+48, cases, 1M_pop, 1786
+48, cases, total, 17786
+48, deaths, new, None
+48, deaths, 1M_pop, 13
+48, deaths, total, 125
+48, tests, 1M_pop, None
+48, tests, total, None
+48, day, 2024-03-25
+48, time, 2024-03-25T09:45:15+00:00
+49, continent, Africa
+49, country, Equatorial-Guinea
+49, population, 1496662
+49, cases, new, +7
+49, cases, active, 139
+49, cases, critical, 5
+49, cases, recovered, 16907
+49, cases, 1M_pop, 11512
+49, cases, total, 17229
+49, deaths, new, None
+49, deaths, 1M_pop, 122
+49, deaths, total, 183
+49, tests, 1M_pop, 244342
+49, tests, total, 365697
+49, day, 2024-03-25
+49, time, 2024-03-25T09:45:15+00:00
+50, continent, Africa
+50, country, Somalia
+50, population, 16841795
+50, cases, new, +10
+50, cases, active, 12791
+50, cases, critical, None
+50, cases, recovered, 13182
+50, cases, 1M_pop, 1623
+50, cases, total, 27334
+50, deaths, new, None
+50, deaths, 1M_pop, 81
+50, deaths, total, 1361
+50, tests, 1M_pop, 23778
+50, tests, total, 400466
+50, day, 2024-03-25
+50, time, 2024-03-25T09:45:15+00:00
+51, continent, North-America
+51, country, Bermuda
+51, population, 61939
+51, cases, new, +11
+51, cases, active, 10
+51, cases, critical, None
+51, cases, recovered, 18685
+51, cases, 1M_pop, 304493
+51, cases, total, 18860
+51, deaths, new, +2
+51, deaths, 1M_pop, 2664
+51, deaths, total, 165
+51, tests, 1M_pop, 16622128
+51, tests, total, 1029558
+51, day, 2024-03-25
+51, time, 2024-03-25T09:45:15+00:00
+52, continent, North-America
+52, country, Grenada
+52, population, 113475
+52, cases, new, +10
+52, cases, active, 97
+52, cases, critical, 4
+52, cases, recovered, 19358
+52, cases, 1M_pop, 173545
+52, cases, total, 19693
+52, deaths, new, None
+52, deaths, 1M_pop, 2097
+52, deaths, total, 238
+52, tests, 1M_pop, 1612523
+52, tests, total, 182981
+52, day, 2024-03-25
+52, time, 2024-03-25T09:45:15+00:00
+53, continent, Asia
+53, country, Timor-Leste
+53, population, 1369429
+53, cases, new, None
+53, cases, active, 220
+53, cases, critical, None
+53, cases, recovered, 23102
+53, cases, 1M_pop, 17131
+53, cases, total, 23460
+53, deaths, new, None
+53, deaths, 1M_pop, 101
+53, deaths, total, 138
+53, tests, 1M_pop, 203391
+53, tests, total, 278529
+53, day, 2024-03-25
+53, time, 2024-03-25T09:45:15+00:00
+54, continent, Africa
+54, country, Benin
+54, population, 12784726
+54, cases, new, None
+54, cases, active, 26
+54, cases, critical, None
+54, cases, recovered, 27847
+54, cases, 1M_pop, 2193
+54, cases, total, 28036
+54, deaths, new, None
+54, deaths, 1M_pop, 13
+54, deaths, total, 163
+54, tests, 1M_pop, 47268
+54, tests, total, 604310
+54, day, 2024-03-25
+54, time, 2024-03-25T09:45:15+00:00
+55, continent, Europe
+55, country, Gibraltar
+55, population, 33704
+55, cases, new, None
+55, cases, active, None
+55, cases, critical, None
+55, cases, recovered, None
+55, cases, 1M_pop, 609720
+55, cases, total, 20550
+55, deaths, new, None
+55, deaths, 1M_pop, 3353
+55, deaths, total, 113
+55, tests, 1M_pop, 15852213
+55, tests, total, 534283
+55, day, 2024-03-25
+55, time, 2024-03-25T09:45:15+00:00
+56, continent, Oceania
+56, country, Micronesia
+56, population, 117489
+56, cases, new, None
+56, cases, active, None
+56, cases, critical, None
+56, cases, recovered, None
+56, cases, 1M_pop, 225953
+56, cases, total, 26547
+56, deaths, new, None
+56, deaths, 1M_pop, 553
+56, deaths, total, 65
+56, tests, 1M_pop, 701598
+56, tests, total, 82430
+56, day, 2024-03-25
+56, time, 2024-03-25T09:45:15+00:00
+57, continent, Oceania
+57, country, Solomon-Islands
+57, population, 721159
+57, cases, new, None
+57, cases, active, None
+57, cases, critical, None
+57, cases, recovered, None
+57, cases, 1M_pop, 35989
+57, cases, total, 25954
+57, deaths, new, None
+57, deaths, 1M_pop, 276
+57, deaths, total, 199
+57, tests, 1M_pop, None
+57, tests, total, None
+57, day, 2024-03-25
+57, time, 2024-03-25T09:45:15+00:00
+58, continent, Europe
+58, country, San-Marino
+58, population, 34085
+58, cases, new, None
+58, cases, active, 46
+58, cases, critical, None
+58, cases, recovered, 26011
+58, cases, 1M_pop, 768226
+58, cases, total, 26185
+58, deaths, new, None
+58, deaths, 1M_pop, 3755
+58, deaths, total, 128
+58, tests, 1M_pop, 5775414
+58, tests, total, 196855
+58, day, 2024-03-25
+58, time, 2024-03-25T09:45:15+00:00
+59, continent, Africa
+59, country, Burkina-Faso
+59, population, 22102838
+59, cases, new, None
+59, cases, active, 113
+59, cases, critical, None
+59, cases, recovered, 21596
+59, cases, 1M_pop, 1000
+59, cases, total, 22109
+59, deaths, new, None
+59, deaths, 1M_pop, 18
+59, deaths, total, 400
+59, tests, 1M_pop, 11265
+59, tests, total, 248995
+59, day, 2024-03-25
+59, time, 2024-03-25T09:45:15+00:00
+60, continent, Africa
+60, country, South-Sudan
+60, population, 11618511
+60, cases, new, None
+60, cases, active, 557
+60, cases, critical, 1
+60, cases, recovered, 18115
+60, cases, 1M_pop, 1620
+60, cases, total, 18819
+60, deaths, new, None
+60, deaths, 1M_pop, 13
+60, deaths, total, 147
+60, tests, 1M_pop, 35313
+60, tests, total, 410280
+60, day, 2024-03-25
+60, time, 2024-03-25T09:45:15+00:00
+61, continent, Europe
+61, country, Liechtenstein
+61, population, 38387
+61, cases, new, None
+61, cases, active, None
+61, cases, critical, None
+61, cases, recovered, None
+61, cases, 1M_pop, 561987
+61, cases, total, 21573
+61, deaths, new, None
+61, deaths, 1M_pop, 2449
+61, deaths, total, 94
+61, tests, 1M_pop, 2929559
+61, tests, total, 112457
+61, day, 2024-03-25
+61, time, 2024-03-25T09:45:15+00:00
+62, continent, North-America
+62, country, Saint-Lucia
+62, population, 185113
+62, cases, new, None
+62, cases, active, 0
+62, cases, critical, None
+62, cases, recovered, 29805
+62, cases, 1M_pop, 163225
+62, cases, total, 30215
+62, deaths, new, None
+62, deaths, 1M_pop, 2215
+62, deaths, total, 410
+62, tests, 1M_pop, 1139752
+62, tests, total, 210983
+62, day, 2024-03-25
+62, time, 2024-03-25T09:45:15+00:00
+63, continent, Asia
+63, country, Macao
+63, population, 667490
+63, cases, new, +1495
+63, cases, active, 22868
+63, cases, critical, None
+63, cases, recovered, 3487
+63, cases, 1M_pop, 39668
+63, cases, total, 26478
+63, deaths, new, None
+63, deaths, 1M_pop, 184
+63, deaths, total, 123
+63, tests, 1M_pop, 11760
+63, tests, total, 7850
+63, day, 2024-03-25
+63, time, 2024-03-25T09:45:15+00:00
+64, continent, North-America
+64, country, Cura&ccedil;ao
+64, population, 165529
+64, cases, new, None
+64, cases, active, 971
+64, cases, critical, 3
+64, cases, recovered, 44720
+64, cases, 1M_pop, 277812
+64, cases, total, 45986
+64, deaths, new, None
+64, deaths, 1M_pop, 1782
+64, deaths, total, 295
+64, tests, 1M_pop, 3000640
+64, tests, total, 496693
+64, day, 2024-03-25
+64, time, 2024-03-25T09:45:14+00:00
+65, continent, Europe
+65, country, Isle-of-Man
+65, population, 85732
+65, cases, new, None
+65, cases, active, None
+65, cases, critical, None
+65, cases, recovered, None
+65, cases, 1M_pop, 443335
+65, cases, total, 38008
+65, deaths, new, None
+65, deaths, 1M_pop, 1353
+65, deaths, total, 116
+65, tests, 1M_pop, 1758422
+65, tests, total, 150753
+65, day, 2024-03-25
+65, time, 2024-03-25T09:45:14+00:00
+66, continent, North-America
+66, country, Cayman-Islands
+66, population, 67277
+66, cases, new, None
+66, cases, active, 22882
+66, cases, critical, 1
+66, cases, recovered, 8553
+66, cases, 1M_pop, 467797
+66, cases, total, 31472
+66, deaths, new, None
+66, deaths, 1M_pop, 550
+66, deaths, total, 37
+66, tests, 1M_pop, 3311280
+66, tests, total, 222773
+66, day, 2024-03-25
+66, time, 2024-03-25T09:45:14+00:00
+67, continent, Africa
+67, country, Mayotte
+67, population, 286259
+67, cases, new, +19
+67, cases, active, None
+67, cases, critical, None
+67, cases, recovered, None
+67, cases, 1M_pop, 146815
+67, cases, total, 42027
+67, deaths, new, None
+67, deaths, 1M_pop, 657
+67, deaths, total, 188
+67, tests, 1M_pop, 618038
+67, tests, total, 176919
+67, day, 2024-03-25
+67, time, 2024-03-25T09:45:14+00:00
+68, continent, North-America
+68, country, Bahamas
+68, population, 400516
+68, cases, new, None
+68, cases, active, 874
+68, cases, critical, 1
+68, cases, recovered, 36366
+68, cases, 1M_pop, 95087
+68, cases, total, 38084
+68, deaths, new, None
+68, deaths, 1M_pop, 2107
+68, deaths, total, 844
+68, tests, 1M_pop, 643767
+68, tests, total, 257839
+68, day, 2024-03-25
+68, time, 2024-03-25T09:45:14+00:00
+69, continent, North-America
+69, country, Aruba
+69, population, 107609
+69, cases, new, None
+69, cases, active, 1494
+69, cases, critical, 2
+69, cases, recovered, 42438
+69, cases, 1M_pop, 410969
+69, cases, total, 44224
+69, deaths, new, None
+69, deaths, 1M_pop, 2714
+69, deaths, total, 292
+69, tests, 1M_pop, 1653068
+69, tests, total, 177885
+69, day, 2024-03-25
+69, time, 2024-03-25T09:45:14+00:00
+70, continent, Africa
+70, country, Mauritius
+70, population, 1274727
+70, cases, new, None
+70, cases, active, 696
+70, cases, critical, None
+70, cases, recovered, 41278
+70, cases, 1M_pop, 33752
+70, cases, total, 43025
+70, deaths, new, None
+70, deaths, 1M_pop, 824
+70, deaths, total, 1051
+70, tests, 1M_pop, 281374
+70, tests, total, 358675
+70, day, 2024-03-25
+70, time, 2024-03-25T09:45:14+00:00
+71, continent, Europe
+71, country, Faeroe-Islands
+71, population, 49233
+71, cases, new, None
+71, cases, active, None
+71, cases, critical, None
+71, cases, recovered, None
+71, cases, 1M_pop, 703959
+71, cases, total, 34658
+71, deaths, new, None
+71, deaths, 1M_pop, 569
+71, deaths, total, 28
+71, tests, 1M_pop, 15802409
+71, tests, total, 778000
+71, day, 2024-03-25
+71, time, 2024-03-25T09:45:14+00:00
+72, continent, Africa
+72, country, Guinea
+72, population, 13865691
+72, cases, new, None
+72, cases, active, 347
+72, cases, critical, None
+72, cases, recovered, 37757
+72, cases, 1M_pop, 2782
+72, cases, total, 38572
+72, deaths, new, None
+72, deaths, 1M_pop, 34
+72, deaths, total, 468
+72, tests, 1M_pop, 47607
+72, tests, total, 660107
+72, day, 2024-03-25
+72, time, 2024-03-25T09:45:14+00:00
+73, continent, Africa
+73, country, Tanzania
+73, population, 63298550
+73, cases, new, None
+73, cases, active, None
+73, cases, critical, None
+73, cases, recovered, None
+73, cases, 1M_pop, 683
+73, cases, total, 43223
+73, deaths, new, None
+73, deaths, 1M_pop, 13
+73, deaths, total, 846
+73, tests, 1M_pop, None
+73, tests, total, None
+73, day, 2024-03-25
+73, time, 2024-03-25T09:45:14+00:00
+74, continent, Africa
+74, country, Mali
+74, population, 21473764
+74, cases, new, None
+74, cases, active, 89
+74, cases, critical, None
+74, cases, recovered, 32332
+74, cases, 1M_pop, 1544
+74, cases, total, 33164
+74, deaths, new, None
+74, deaths, 1M_pop, 35
+74, deaths, total, 743
+74, tests, 1M_pop, 37483
+74, tests, total, 804909
+74, day, 2024-03-25
+74, time, 2024-03-25T09:45:14+00:00
+75, continent, Africa
+75, country, Lesotho
+75, population, 2175699
+75, cases, new, None
+75, cases, active, 9435
+75, cases, critical, None
+75, cases, recovered, 25980
+75, cases, 1M_pop, 16610
+75, cases, total, 36138
+75, deaths, new, None
+75, deaths, 1M_pop, 332
+75, deaths, total, 723
+75, tests, 1M_pop, 198199
+75, tests, total, 431221
+75, day, 2024-03-25
+75, time, 2024-03-25T09:45:14+00:00
+76, continent, North-America
+76, country, Haiti
+76, population, 11680283
+76, cases, new, None
+76, cases, active, 73
+76, cases, critical, None
+76, cases, recovered, 33734
+76, cases, 1M_pop, 2968
+76, cases, total, 34667
+76, deaths, new, None
+76, deaths, 1M_pop, 74
+76, deaths, total, 860
+76, tests, 1M_pop, 11337
+76, tests, total, 132422
+76, day, 2024-03-25
+76, time, 2024-03-25T09:45:14+00:00
+77, continent, Africa
+77, country, Togo
+77, population, 8680837
+77, cases, new, None
+77, cases, active, 2
+77, cases, critical, None
+77, cases, recovered, 39277
+77, cases, 1M_pop, 4558
+77, cases, total, 39569
+77, deaths, new, None
+77, deaths, 1M_pop, 33
+77, deaths, total, 290
+77, tests, 1M_pop, 93895
+77, tests, total, 815088
+77, day, 2024-03-25
+77, time, 2024-03-25T09:45:14+00:00
+78, continent, Oceania
+78, country, Fiji
+78, population, 909466
+78, cases, new, None
+78, cases, active, 1006
+78, cases, critical, None
+78, cases, recovered, 67226
+78, cases, 1M_pop, 75997
+78, cases, total, 69117
+78, deaths, new, None
+78, deaths, 1M_pop, 973
+78, deaths, total, 885
+78, tests, 1M_pop, 739866
+78, tests, total, 672883
+78, day, 2024-03-25
+78, time, 2024-03-25T09:45:13+00:00
+79, continent, South-America
+79, country, Suriname
+79, population, 596831
+79, cases, new, None
+79, cases, active, None
+79, cases, critical, None
+79, cases, recovered, None
+79, cases, 1M_pop, 138378
+79, cases, total, 82588
+79, deaths, new, None
+79, deaths, 1M_pop, 2359
+79, deaths, total, 1408
+79, tests, 1M_pop, 405822
+79, tests, total, 242207
+79, day, 2024-03-25
+79, time, 2024-03-25T09:45:13+00:00
+80, continent, Africa
+80, country, Sudan
+80, population, 45992020
+80, cases, new, None
+80, cases, active, 0
+80, cases, critical, None
+80, cases, recovered, 58947
+80, cases, 1M_pop, 1391
+80, cases, total, 63993
+80, deaths, new, None
+80, deaths, 1M_pop, 110
+80, deaths, total, 5046
+80, tests, 1M_pop, 12240
+80, tests, total, 562941
+80, day, 2024-03-25
+80, time, 2024-03-25T09:45:13+00:00
+81, continent, Asia
+81, country, Syria
+81, population, 19364809
+81, cases, new, +7
+81, cases, active, 0
+81, cases, critical, None
+81, cases, recovered, 54578
+81, cases, 1M_pop, 2982
+81, cases, total, 57743
+81, deaths, new, None
+81, deaths, 1M_pop, 163
+81, deaths, total, 3165
+81, tests, 1M_pop, 7553
+81, tests, total, 146269
+81, day, 2024-03-25
+81, time, 2024-03-25T09:45:13+00:00
+82, continent, Asia
+82, country, Bhutan
+82, population, 787941
+82, cases, new, +3
+82, cases, active, 1112
+82, cases, critical, None
+82, cases, recovered, 61564
+82, cases, 1M_pop, 79571
+82, cases, total, 62697
+82, deaths, new, None
+82, deaths, 1M_pop, 27
+82, deaths, total, 21
+82, tests, 1M_pop, 2923739
+82, tests, total, 2303734
+82, day, 2024-03-25
+82, time, 2024-03-25T09:45:13+00:00
+83, continent, Africa
+83, country, Burundi
+83, population, 12624840
+83, cases, new, None
+83, cases, active, 1114
+83, cases, critical, None
+83, cases, recovered, 53569
+83, cases, 1M_pop, 4334
+83, cases, total, 54721
+83, deaths, new, None
+83, deaths, 1M_pop, 3
+83, deaths, total, 38
+83, tests, 1M_pop, 27386
+83, tests, total, 345742
+83, day, 2024-03-25
+83, time, 2024-03-25T09:45:13+00:00
+84, continent, Africa
+84, country, Cabo-Verde
+84, population, 567678
+84, cases, new, None
+84, cases, active, 305
+84, cases, critical, 23
+84, cases, recovered, 63755
+84, cases, 1M_pop, 113580
+84, cases, total, 64477
+84, deaths, new, None
+84, deaths, 1M_pop, 735
+84, deaths, total, 417
+84, tests, 1M_pop, 707482
+84, tests, total, 401622
+84, day, 2024-03-25
+84, time, 2024-03-25T09:45:13+00:00
+85, continent, Oceania
+85, country, New-Caledonia
+85, population, 290915
+85, cases, new, None
+85, cases, active, None
+85, cases, critical, None
+85, cases, recovered, None
+85, cases, 1M_pop, 275214
+85, cases, total, 80064
+85, deaths, new, None
+85, deaths, 1M_pop, 1079
+85, deaths, total, 314
+85, tests, 1M_pop, 340182
+85, tests, total, 98964
+85, day, 2024-03-25
+85, time, 2024-03-25T09:45:13+00:00
+86, continent, Oceania
+86, country, Papua-New-Guinea
+86, population, 9292169
+86, cases, new, None
+86, cases, active, 26
+86, cases, critical, None
+86, cases, recovered, 46168
+86, cases, 1M_pop, 5043
+86, cases, total, 46864
+86, deaths, new, None
+86, deaths, 1M_pop, 72
+86, deaths, total, 670
+86, tests, 1M_pop, 26813
+86, tests, total, 249149
+86, day, 2024-03-25
+86, time, 2024-03-25T09:45:13+00:00
+87, continent, Europe
+87, country, Andorra
+87, population, 77463
+87, cases, new, None
+87, cases, active, None
+87, cases, critical, None
+87, cases, recovered, None
+87, cases, 1M_pop, 619844
+87, cases, total, 48015
+87, deaths, new, None
+87, deaths, 1M_pop, 2130
+87, deaths, total, 165
+87, tests, 1M_pop, 3225256
+87, tests, total, 249838
+87, day, 2024-03-25
+87, time, 2024-03-25T09:45:13+00:00
+88, continent, Africa
+88, country, Gabon
+88, population, 2331533
+88, cases, new, None
+88, cases, active, 70
+88, cases, critical, None
+88, cases, recovered, 48674
+88, cases, 1M_pop, 21038
+88, cases, total, 49051
+88, deaths, new, None
+88, deaths, 1M_pop, 132
+88, deaths, total, 307
+88, tests, 1M_pop, 695641
+88, tests, total, 1621909
+88, day, 2024-03-25
+88, time, 2024-03-25T09:45:13+00:00
+89, continent, Africa
+89, country, Seychelles
+89, population, 99426
+89, cases, new, None
+89, cases, active, 0
+89, cases, critical, None
+89, cases, recovered, 51048
+89, cases, 1M_pop, 515157
+89, cases, total, 51220
+89, deaths, new, None
+89, deaths, 1M_pop, 1730
+89, deaths, total, 172
+89, tests, 1M_pop, None
+89, tests, total, None
+89, day, 2024-03-25
+89, time, 2024-03-25T09:45:13+00:00
+90, continent, Africa
+90, country, Eswatini
+90, population, 1184817
+90, cases, new, None
+90, cases, active, 648
+90, cases, critical, None
+90, cases, recovered, 73116
+90, cases, 1M_pop, 63462
+90, cases, total, 75191
+90, deaths, new, None
+90, deaths, 1M_pop, 1204
+90, deaths, total, 1427
+90, tests, 1M_pop, 885119
+90, tests, total, 1048704
+90, day, 2024-03-25
+90, time, 2024-03-25T09:45:13+00:00
+91, continent, South-America
+91, country, Guyana
+91, population, 794045
+91, cases, new, None
+91, cases, active, 824
+91, cases, critical, None
+91, cases, recovered, 72013
+91, cases, 1M_pop, 93366
+91, cases, total, 74137
+91, deaths, new, None
+91, deaths, 1M_pop, 1637
+91, deaths, total, 1300
+91, tests, 1M_pop, 923396
+91, tests, total, 733218
+91, day, 2024-03-25
+91, time, 2024-03-25T09:45:13+00:00
+92, continent, Oceania
+92, country, French-Polynesia
+92, population, 284164
+92, cases, new, None
+92, cases, active, None
+92, cases, critical, None
+92, cases, recovered, None
+92, cases, 1M_pop, 278902
+92, cases, total, 79254
+92, deaths, new, None
+92, deaths, 1M_pop, 2287
+92, deaths, total, 650
+92, tests, 1M_pop, None
+92, tests, total, None
+92, day, 2024-03-25
+92, time, 2024-03-25T09:45:13+00:00
+93, continent, Africa
+93, country, Madagascar
+93, population, 29178077
+93, cases, new, None
+93, cases, active, 198
+93, cases, critical, None
+93, cases, recovered, 66862
+93, cases, 1M_pop, 2347
+93, cases, total, 68486
+93, deaths, new, None
+93, deaths, 1M_pop, 49
+93, deaths, total, 1426
+93, tests, 1M_pop, 18210
+93, tests, total, 531329
+93, day, 2024-03-25
+93, time, 2024-03-25T09:45:13+00:00
+94, continent, North-America
+94, country, Belize
+94, population, 412190
+94, cases, new, None
+94, cases, active, None
+94, cases, critical, None
+94, cases, recovered, None
+94, cases, 1M_pop, 173175
+94, cases, total, 71381
+94, deaths, new, None
+94, deaths, 1M_pop, 1669
+94, deaths, total, 688
+94, tests, 1M_pop, 1397453
+94, tests, total, 576016
+94, day, 2024-03-25
+94, time, 2024-03-25T09:45:13+00:00
+95, continent, Africa
+95, country, Mauritania
+95, population, 4901981
+95, cases, new, None
+95, cases, active, 371
+95, cases, critical, None
+95, cases, recovered, 62471
+95, cases, 1M_pop, 13023
+95, cases, total, 63839
+95, deaths, new, None
+95, deaths, 1M_pop, 203
+95, deaths, total, 997
+95, tests, 1M_pop, 206030
+95, tests, total, 1009957
+95, day, 2024-03-25
+95, time, 2024-03-25T09:45:13+00:00
+96, continent, South-America
+96, country, French-Guiana
+96, population, 314169
+96, cases, new, +13
+96, cases, active, 86367
+96, cases, critical, 6
+96, cases, recovered, 11254
+96, cases, 1M_pop, 312065
+96, cases, total, 98041
+96, deaths, new, None
+96, deaths, 1M_pop, 1337
+96, deaths, total, 420
+96, tests, 1M_pop, 2072951
+96, tests, total, 651257
+96, day, 2024-03-25
+96, time, 2024-03-25T09:45:12+00:00
+97, continent, Europe
+97, country, Channel-Islands
+97, population, 176463
+97, cases, new, +91
+97, cases, active, 168
+97, cases, critical, None
+97, cases, recovered, 101321
+97, cases, 1M_pop, 576421
+97, cases, total, 101717
+97, deaths, new, None
+97, deaths, 1M_pop, 1292
+97, deaths, total, 228
+97, tests, 1M_pop, 7099551
+97, tests, total, 1252808
+97, day, 2024-03-25
+97, time, 2024-03-25T09:45:12+00:00
+98, continent, Asia
+98, country, Maldives
+98, population, 540985
+98, cases, new, None
+98, cases, active, 22691
+98, cases, critical, 25
+98, cases, recovered, 163687
+98, cases, 1M_pop, 345100
+98, cases, total, 186694
+98, deaths, new, None
+98, deaths, 1M_pop, 584
+98, deaths, total, 316
+98, tests, 1M_pop, 4092223
+98, tests, total, 2213831
+98, day, 2024-03-25
+98, time, 2024-03-25T09:45:12+00:00
+99, continent, Africa
+99, country, Rwanda
+99, population, 13600464
+99, cases, new, None
+99, cases, active, 11
+99, cases, critical, None
+99, cases, recovered, 132039
+99, cases, 1M_pop, 9817
+99, cases, total, 133518
+99, deaths, new, None
+99, deaths, 1M_pop, 108
+99, deaths, total, 1468
+99, tests, 1M_pop, 442778
+99, tests, total, 6021981
+99, day, 2024-03-25
+99, time, 2024-03-25T09:45:12+00:00
+100, continent, North-America
+100, country, Trinidad-and-Tobago
+100, population, 1406585
+100, cases, new, None
+100, cases, active, 28
+100, cases, critical, None
+100, cases, recovered, 187078
+100, cases, 1M_pop, 136143
+100, cases, total, 191496
+100, deaths, new, None
+100, deaths, 1M_pop, 3121
+100, deaths, total, 4390
+100, tests, 1M_pop, 649295
+100, tests, total, 913289
+100, day, 2024-03-25
+100, time, 2024-03-25T09:45:12+00:00
+101, continent, Africa
+101, country, Uganda
+101, population, 48432863
+101, cases, new, None
+101, cases, active, 67920
+101, cases, critical, None
+101, cases, recovered, 100431
+101, cases, 1M_pop, 3551
+101, cases, total, 171983
+101, deaths, new, None
+101, deaths, 1M_pop, 75
+101, deaths, total, 3632
+101, tests, 1M_pop, 62198
+101, tests, total, 3012408
+101, day, 2024-03-25
+101, time, 2024-03-25T09:45:12+00:00
+102, continent, North-America
+102, country, Guadeloupe
+102, population, 399794
+102, cases, new, None
+102, cases, active, None
+102, cases, critical, None
+102, cases, recovered, None
+102, cases, 1M_pop, 508349
+102, cases, total, 203235
+102, deaths, new, None
+102, deaths, 1M_pop, 2554
+102, deaths, total, 1021
+102, tests, 1M_pop, 2346306
+102, tests, total, 938039
+102, day, 2024-03-25
+102, time, 2024-03-25T09:45:12+00:00
+103, continent, Africa
+103, country, Ghana
+103, population, 32395450
+103, cases, new, None
+103, cases, active, 2
+103, cases, critical, None
+103, cases, recovered, 170425
+103, cases, 1M_pop, 5306
+103, cases, total, 171889
+103, deaths, new, None
+103, deaths, 1M_pop, 45
+103, deaths, total, 1462
+103, tests, 1M_pop, 78456
+103, tests, total, 2541625
+103, day, 2024-03-25
+103, time, 2024-03-25T09:45:12+00:00
+104, continent, Africa
+104, country, Ivory-Coast
+104, population, 27742298
+104, cases, new, None
+104, cases, active, 52
+104, cases, critical, None
+104, cases, recovered, 87497
+104, cases, 1M_pop, 3186
+104, cases, total, 88384
+104, deaths, new, None
+104, deaths, 1M_pop, 30
+104, deaths, total, 835
+104, tests, 1M_pop, 60951
+104, tests, total, 1690934
+104, day, 2024-03-25
+104, time, 2024-03-25T09:45:12+00:00
+105, continent, Africa
+105, country, DRC
+105, population, 95240792
+105, cases, new, None
+105, cases, active, 13381
+105, cases, critical, None
+105, cases, recovered, 84489
+105, cases, 1M_pop, 1043
+105, cases, total, 99338
+105, deaths, new, None
+105, deaths, 1M_pop, 15
+105, deaths, total, 1468
+105, tests, 1M_pop, 8890
+105, tests, total, 846704
+105, day, 2024-03-25
+105, time, 2024-03-25T09:45:12+00:00
+106, continent, North-America
+106, country, El-Salvador
+106, population, 6550389
+106, cases, new, None
+106, cases, active, 18215
+106, cases, critical, None
+106, cases, recovered, 179410
+106, cases, 1M_pop, 30816
+106, cases, total, 201855
+106, deaths, new, None
+106, deaths, 1M_pop, 646
+106, deaths, total, 4230
+106, tests, 1M_pop, 398467
+106, tests, total, 2610114
+106, day, 2024-03-25
+106, time, 2024-03-25T09:45:12+00:00
+107, continent, Africa
+107, country, Senegal
+107, population, 17653671
+107, cases, new, None
+107, cases, active, 58
+107, cases, critical, None
+107, cases, recovered, 87024
+107, cases, 1M_pop, 5044
+107, cases, total, 89053
+107, deaths, new, None
+107, deaths, 1M_pop, 112
+107, deaths, total, 1971
+107, tests, 1M_pop, 64946
+107, tests, total, 1146543
+107, day, 2024-03-25
+107, time, 2024-03-25T09:45:12+00:00
+108, continent, Africa
+108, country, Namibia
+108, population, 2633874
+108, cases, new, None
+108, cases, active, 1078
+108, cases, critical, None
+108, cases, recovered, 167099
+108, cases, 1M_pop, 65409
+108, cases, total, 172280
+108, deaths, new, None
+108, deaths, 1M_pop, 1558
+108, deaths, total, 4103
+108, tests, 1M_pop, 403460
+108, tests, total, 1062663
+108, day, 2024-03-25
+108, time, 2024-03-25T09:45:12+00:00
+109, continent, North-America
+109, country, Barbados
+109, population, 288023
+109, cases, new, None
+109, cases, active, 1280
+109, cases, critical, None
+109, cases, recovered, 108647
+109, cases, 1M_pop, 383910
+109, cases, total, 110575
+109, deaths, new, None
+109, deaths, 1M_pop, 2250
+109, deaths, total, 648
+109, tests, 1M_pop, 2826715
+109, tests, total, 814159
+109, day, 2024-03-25
+109, time, 2024-03-25T09:45:12+00:00
+110, continent, Africa
+110, country, Malawi
+110, population, 20180839
+110, cases, new, None
+110, cases, active, None
+110, cases, critical, None
+110, cases, recovered, None
+110, cases, 1M_pop, 4437
+110, cases, total, 89535
+110, deaths, new, None
+110, deaths, 1M_pop, 133
+110, deaths, total, 2686
+110, tests, 1M_pop, 30959
+110, tests, total, 624784
+110, day, 2024-03-25
+110, time, 2024-03-25T09:45:12+00:00
+111, continent, Africa
+111, country, Cameroon
+111, population, 27911548
+111, cases, new, None
+111, cases, active, 125
+111, cases, critical, None
+111, cases, recovered, 123280
+111, cases, 1M_pop, 4492
+111, cases, total, 125379
+111, deaths, new, None
+111, deaths, 1M_pop, 71
+111, deaths, total, 1974
+111, tests, 1M_pop, 62762
+111, tests, total, 1751774
+111, day, 2024-03-25
+111, time, 2024-03-25T09:45:12+00:00
+112, continent, Africa
+112, country, Angola
+112, population, 35027343
+112, cases, new, None
+112, cases, active, 1967
+112, cases, critical, None
+112, cases, recovered, 103419
+112, cases, 1M_pop, 3064
+112, cases, total, 107323
+112, deaths, new, None
+112, deaths, 1M_pop, 55
+112, deaths, total, 1937
+112, tests, 1M_pop, 42818
+112, tests, total, 1499795
+112, day, 2024-03-25
+112, time, 2024-03-25T09:45:12+00:00
+113, continent, North-America
+113, country, Jamaica
+113, population, 2985094
+113, cases, new, None
+113, cases, active, None
+113, cases, critical, None
+113, cases, recovered, None
+113, cases, 1M_pop, 52551
+113, cases, total, 156869
+113, deaths, new, None
+113, deaths, 1M_pop, 1258
+113, deaths, total, 3756
+113, tests, 1M_pop, 396633
+113, tests, total, 1183986
+113, day, 2024-03-25
+113, time, 2024-03-25T09:45:12+00:00
+114, continent, Europe
+114, country, Malta
+114, population, 444033
+114, cases, new, +8
+114, cases, active, 385
+114, cases, critical, None
+114, cases, recovered, 120148
+114, cases, 1M_pop, 273444
+114, cases, total, 121418
+114, deaths, new, None
+114, deaths, 1M_pop, 1993
+114, deaths, total, 885
+114, tests, 1M_pop, 4887193
+114, tests, total, 2170075
+114, day, 2024-03-25
+114, time, 2024-03-25T09:45:12+00:00
+115, continent, Asia
+115, country, Cambodia
+115, population, 17168639
+115, cases, new, +2
+115, cases, active, 3
+115, cases, critical, None
+115, cases, recovered, 136040
+115, cases, 1M_pop, 8102
+115, cases, total, 139099
+115, deaths, new, None
+115, deaths, 1M_pop, 178
+115, deaths, total, 3056
+115, tests, 1M_pop, 180062
+115, tests, total, 3091420
+115, day, 2024-03-25
+115, time, 2024-03-25T09:45:12+00:00
+116, continent, Asia
+116, country, Uzbekistan
+116, population, 34382084
+116, cases, new, +136
+116, cases, active, 10539
+116, cases, critical, 23
+116, cases, recovered, 241486
+116, cases, 1M_pop, 7378
+116, cases, total, 253662
+116, deaths, new, None
+116, deaths, 1M_pop, 48
+116, deaths, total, 1637
+116, tests, 1M_pop, 40077
+116, tests, total, 1377915
+116, day, 2024-03-25
+116, time, 2024-03-25T09:45:11+00:00
+117, continent, Asia
+117, country, Kyrgyzstan
+117, population, 6728271
+117, cases, new, +7
+117, cases, active, 7500
+117, cases, critical, 131
+117, cases, recovered, 196406
+117, cases, 1M_pop, 30750
+117, cases, total, 206897
+117, deaths, new, None
+117, deaths, 1M_pop, 445
+117, deaths, total, 2991
+117, tests, 1M_pop, 283460
+117, tests, total, 1907195
+117, day, 2024-03-25
+117, time, 2024-03-25T09:45:11+00:00
+118, continent, North-America
+118, country, Martinique
+118, population, 374087
+118, cases, new, None
+118, cases, active, None
+118, cases, critical, None
+118, cases, recovered, None
+118, cases, 1M_pop, 615777
+118, cases, total, 230354
+118, deaths, new, None
+118, deaths, 1M_pop, 2946
+118, deaths, total, 1102
+118, tests, 1M_pop, 2215870
+118, tests, total, 828928
+118, day, 2024-03-25
+118, time, 2024-03-25T09:45:11+00:00
+119, continent, Africa
+119, country, Algeria
+119, population, 45350148
+119, cases, new, None
+119, cases, active, 82068
+119, cases, critical, None
+119, cases, recovered, 183061
+119, cases, 1M_pop, 5998
+119, cases, total, 272010
+119, deaths, new, None
+119, deaths, 1M_pop, 152
+119, deaths, total, 6881
+119, tests, 1M_pop, 5093
+119, tests, total, 230960
+119, day, 2024-03-25
+119, time, 2024-03-25T09:45:11+00:00
+120, continent, Africa
+120, country, Mozambique
+120, population, 33089461
+120, cases, new, None
+120, cases, active, 2676
+120, cases, critical, 11
+120, cases, recovered, 228805
+120, cases, 1M_pop, 7064
+120, cases, total, 233731
+120, deaths, new, None
+120, deaths, 1M_pop, 68
+120, deaths, total, 2250
+120, tests, 1M_pop, 41437
+120, tests, total, 1371127
+120, day, 2024-03-25
+120, time, 2024-03-25T09:45:11+00:00
+121, continent, Africa
+121, country, Botswana
+121, population, 2441162
+121, cases, new, None
+121, cases, active, 592
+121, cases, critical, 1
+121, cases, recovered, 327049
+121, cases, 1M_pop, 135363
+121, cases, total, 330442
+121, deaths, new, None
+121, deaths, 1M_pop, 1147
+121, deaths, total, 2801
+121, tests, 1M_pop, 830300
+121, tests, total, 2026898
+121, day, 2024-03-25
+121, time, 2024-03-25T09:45:11+00:00
+122, continent, Europe
+122, country, Albania
+122, population, 2866374
+122, cases, new, None
+122, cases, active, 1025
+122, cases, critical, None
+122, cases, recovered, 330233
+122, cases, 1M_pop, 116825
+122, cases, total, 334863
+122, deaths, new, None
+122, deaths, 1M_pop, 1258
+122, deaths, total, 3605
+122, tests, 1M_pop, 677173
+122, tests, total, 1941032
+122, day, 2024-03-25
+122, time, 2024-03-25T09:45:11+00:00
+123, continent, Africa
+123, country, Nigeria
+123, population, 216746934
+123, cases, new, None
+123, cases, active, 4080
+123, cases, critical, 11
+123, cases, recovered, 259953
+123, cases, 1M_pop, 1233
+123, cases, total, 267188
+123, deaths, new, None
+123, deaths, 1M_pop, 15
+123, deaths, total, 3155
+123, tests, 1M_pop, 26339
+123, tests, total, 5708974
+123, day, 2024-03-25
+123, time, 2024-03-25T09:45:11+00:00
+124, continent, Asia
+124, country, Brunei
+124, population, 445431
+124, cases, new, None
+124, cases, active, 99249
+124, cases, critical, 3
+124, cases, recovered, 243601
+124, cases, 1M_pop, 770209
+124, cases, total, 343075
+124, deaths, new, None
+124, deaths, 1M_pop, 505
+124, deaths, total, 225
+124, tests, 1M_pop, 1611437
+124, tests, total, 717784
+124, day, 2024-03-25
+124, time, 2024-03-25T09:45:11+00:00
+125, continent, Europe
+125, country, Iceland
+125, population, 345393
+125, cases, new, None
+125, cases, active, None
+125, cases, critical, None
+125, cases, recovered, None
+125, cases, 1M_pop, 607682
+125, cases, total, 209889
+125, deaths, new, None
+125, deaths, 1M_pop, 663
+125, deaths, total, 229
+125, tests, 1M_pop, 5780036
+125, tests, total, 1996384
+125, day, 2024-03-25
+125, time, 2024-03-25T09:45:11+00:00
+126, continent, Africa
+126, country, Zimbabwe
+126, population, 15331428
+126, cases, new, None
+126, cases, active, 1703
+126, cases, critical, 12
+126, cases, recovered, 258888
+126, cases, 1M_pop, 17371
+126, cases, total, 266328
+126, deaths, new, None
+126, deaths, 1M_pop, 374
+126, deaths, total, 5737
+126, tests, 1M_pop, 164744
+126, tests, total, 2525756
+126, day, 2024-03-25
+126, time, 2024-03-25T09:45:11+00:00
+127, continent, Asia
+127, country, Afghanistan
+127, population, 40754388
+127, cases, new, +3
+127, cases, active, 14003
+127, cases, critical, None
+127, cases, recovered, 210164
+127, cases, 1M_pop, 5696
+127, cases, total, 232152
+127, deaths, new, None
+127, deaths, 1M_pop, 196
+127, deaths, total, 7985
+127, tests, 1M_pop, 33531
+127, tests, total, 1366532
+127, day, 2024-03-25
+127, time, 2024-03-25T09:45:11+00:00
+128, continent, Europe
+128, country, Montenegro
+128, population, 627950
+128, cases, new, +5
+128, cases, active, 1866
+128, cases, critical, None
+128, cases, recovered, 291794
+128, cases, 1M_pop, 472181
+128, cases, total, 296506
+128, deaths, new, None
+128, deaths, 1M_pop, 4532
+128, deaths, total, 2846
+128, tests, 1M_pop, 4410034
+128, tests, total, 2769281
+128, day, 2024-03-25
+128, time, 2024-03-25T09:45:11+00:00
+129, continent, Asia
+129, country, Laos
+129, population, 7481023
+129, cases, new, None
+129, cases, active, None
+129, cases, critical, None
+129, cases, recovered, None
+129, cases, 1M_pop, 29268
+129, cases, total, 218958
+129, deaths, new, None
+129, deaths, 1M_pop, 101
+129, deaths, total, 758
+129, tests, 1M_pop, 164845
+129, tests, total, 1233207
+129, day, 2024-03-25
+129, time, 2024-03-25T09:45:11+00:00
+130, continent, Africa
+130, country, Egypt
+130, population, 106156692
+130, cases, new, None
+130, cases, active, 49228
+130, cases, critical, 122
+130, cases, recovered, 442182
+130, cases, 1M_pop, 4861
+130, cases, total, 516023
+130, deaths, new, None
+130, deaths, 1M_pop, 232
+130, deaths, total, 24613
+130, tests, 1M_pop, 34792
+130, tests, total, 3693367
+130, day, 2024-03-25
+130, time, 2024-03-25T09:45:10+00:00
+131, continent, Asia
+131, country, Qatar
+131, population, 2979915
+131, cases, new, +28
+131, cases, active, 147
+131, cases, critical, 16
+131, cases, recovered, 513687
+131, cases, 1M_pop, 172664
+131, cases, total, 514524
+131, deaths, new, None
+131, deaths, 1M_pop, 232
+131, deaths, total, 690
+131, tests, 1M_pop, 1364257
+131, tests, total, 4065369
+131, day, 2024-03-25
+131, time, 2024-03-25T09:45:10+00:00
+132, continent, Africa
+132, country, Libya
+132, population, 7040745
+132, cases, new, +4
+132, cases, active, 2
+132, cases, critical, None
+132, cases, recovered, 500835
+132, cases, 1M_pop, 72048
+132, cases, total, 507274
+132, deaths, new, None
+132, deaths, 1M_pop, 914
+132, deaths, total, 6437
+132, tests, 1M_pop, 352782
+132, tests, total, 2483848
+132, day, 2024-03-25
+132, time, 2024-03-25T09:45:10+00:00
+133, continent, Asia
+133, country, Oman
+133, population, 5323993
+133, cases, new, None
+133, cases, active, None
+133, cases, critical, None
+133, cases, recovered, None
+133, cases, 1M_pop, 75028
+133, cases, total, 399449
+133, deaths, new, None
+133, deaths, 1M_pop, 869
+133, deaths, total, 4628
+133, tests, 1M_pop, 4695724
+133, tests, total, 25000000
+133, day, 2024-03-25
+133, time, 2024-03-25T09:45:10+00:00
+134, continent, Africa
+134, country, Kenya
+134, population, 56215221
+134, cases, new, None
+134, cases, active, 1132
+134, cases, critical, None
+134, cases, recovered, 337309
+134, cases, 1M_pop, 6122
+134, cases, total, 344130
+134, deaths, new, None
+134, deaths, 1M_pop, 101
+134, deaths, total, 5689
+134, tests, 1M_pop, 70569
+134, tests, total, 3967062
+134, day, 2024-03-25
+134, time, 2024-03-25T09:45:10+00:00
+135, continent, North-America
+135, country, Honduras
+135, population, 10221247
+135, cases, new, None
+135, cases, active, None
+135, cases, critical, None
+135, cases, recovered, None
+135, cases, 1M_pop, 46432
+135, cases, total, 474590
+135, deaths, new, None
+135, deaths, 1M_pop, 1092
+135, deaths, total, 11165
+135, tests, 1M_pop, 162472
+135, tests, total, 1660662
+135, day, 2024-03-25
+135, time, 2024-03-25T09:45:10+00:00
+136, continent, Africa
+136, country, R&eacute;union
+136, population, 908061
+136, cases, new, None
+136, cases, active, None
+136, cases, critical, None
+136, cases, recovered, None
+136, cases, 1M_pop, 544672
+136, cases, total, 494595
+136, deaths, new, None
+136, deaths, 1M_pop, 1014
+136, deaths, total, 921
+136, tests, 1M_pop, 1766027
+136, tests, total, 1603660
+136, day, 2024-03-25
+136, time, 2024-03-25T09:45:10+00:00
+137, continent, Africa
+137, country, Ethiopia
+137, population, 120812698
+137, cases, new, None
+137, cases, active, 5372
+137, cases, critical, None
+137, cases, recovered, 488171
+137, cases, 1M_pop, 4148
+137, cases, total, 501117
+137, deaths, new, None
+137, deaths, 1M_pop, 63
+137, deaths, total, 7574
+137, tests, 1M_pop, 46066
+137, tests, total, 5565340
+137, day, 2024-03-25
+137, time, 2024-03-25T09:45:10+00:00
+138, continent, Africa
+138, country, Zambia
+138, population, 19470234
+138, cases, new, None
+138, cases, active, 3919
+138, cases, critical, None
+138, cases, recovered, 341316
+138, cases, 1M_pop, 17940
+138, cases, total, 349304
+138, deaths, new, None
+138, deaths, 1M_pop, 209
+138, deaths, total, 4069
+138, tests, 1M_pop, 211244
+138, tests, total, 4112961
+138, day, 2024-03-25
+138, time, 2024-03-25T09:45:10+00:00
+139, continent, Asia
+139, country, Armenia
+139, population, 2971966
+139, cases, new, None
+139, cases, active, 7488
+139, cases, critical, None
+139, cases, recovered, 435162
+139, cases, 1M_pop, 151895
+139, cases, total, 451426
+139, deaths, new, None
+139, deaths, 1M_pop, 2953
+139, deaths, total, 8776
+139, tests, 1M_pop, 1091164
+139, tests, total, 3242901
+139, day, 2024-03-25
+139, time, 2024-03-25T09:45:10+00:00
+140, continent, Europe
+140, country, Bosnia-and-Herzegovina
+140, population, 3249317
+140, cases, new, None
+140, cases, active, 8116
+140, cases, critical, None
+140, cases, recovered, 379084
+140, cases, 1M_pop, 124206
+140, cases, total, 403585
+140, deaths, new, None
+140, deaths, 1M_pop, 5043
+140, deaths, total, 16385
+140, tests, 1M_pop, 580036
+140, tests, total, 1884721
+140, day, 2024-03-25
+140, time, 2024-03-25T09:45:10+00:00
+141, continent, Europe
+141, country, North-Macedonia
+141, population, 2081304
+141, cases, new, None
+141, cases, active, 3481
+141, cases, critical, None
+141, cases, recovered, 337068
+141, cases, 1M_pop, 168414
+141, cases, total, 350520
+141, deaths, new, None
+141, deaths, 1M_pop, 4791
+141, deaths, total, 9971
+141, tests, 1M_pop, 1069626
+141, tests, total, 2226216
+141, day, 2024-03-25
+141, time, 2024-03-25T09:45:10+00:00
+142, continent, Europe
+142, country, Luxembourg
+142, population, 642371
+142, cases, new, None
+142, cases, active, None
+142, cases, critical, None
+142, cases, recovered, None
+142, cases, 1M_pop, 608865
+142, cases, total, 391117
+142, deaths, new, None
+142, deaths, 1M_pop, 1918
+142, deaths, total, 1232
+142, tests, 1M_pop, 7140959
+142, tests, total, 4587145
+142, day, 2024-03-25
+142, time, 2024-03-25T09:45:10+00:00
+143, continent, South-America
+143, country, Venezuela
+143, population, 29266991
+143, cases, new, +10
+143, cases, active, 302
+143, cases, critical, 31
+143, cases, recovered, 546537
+143, cases, 1M_pop, 18885
+143, cases, total, 552695
+143, deaths, new, None
+143, deaths, 1M_pop, 200
+143, deaths, total, 5856
+143, tests, 1M_pop, 114771
+143, tests, total, 3359014
+143, day, 2024-03-25
+143, time, 2024-03-25T09:45:09+00:00
+144, continent, Asia
+144, country, Saudi-Arabia
+144, population, 35844909
+144, cases, new, None
+144, cases, active, None
+144, cases, critical, None
+144, cases, recovered, None
+144, cases, 1M_pop, 23475
+144, cases, total, 841469
+144, deaths, new, None
+144, deaths, 1M_pop, 269
+144, deaths, total, 9646
+144, tests, 1M_pop, 1268848
+144, tests, total, 45481735
+144, day, 2024-03-25
+144, time, 2024-03-25T09:45:09+00:00
+145, continent, Asia
+145, country, Palestine
+145, population, 5345541
+145, cases, new, None
+145, cases, active, 159
+145, cases, critical, None
+145, cases, recovered, 615445
+145, cases, 1M_pop, 116173
+145, cases, total, 621008
+145, deaths, new, None
+145, deaths, 1M_pop, 1011
+145, deaths, total, 5404
+145, tests, 1M_pop, 575907
+145, tests, total, 3078533
+145, day, 2024-03-25
+145, time, 2024-03-25T09:45:09+00:00
+146, continent, Asia
+146, country, Bahrain
+146, population, 1783983
+146, cases, new, None
+146, cases, active, 60
+146, cases, critical, None
+146, cases, recovered, 727915
+146, cases, 1M_pop, 408944
+146, cases, total, 729549
+146, deaths, new, None
+146, deaths, 1M_pop, 882
+146, deaths, total, 1574
+146, tests, 1M_pop, 6137138
+146, tests, total, 10948549
+146, day, 2024-03-25
+146, time, 2024-03-25T09:45:09+00:00
+147, continent, Asia
+147, country, Cyprus
+147, population, 1223387
+147, cases, new, None
+147, cases, active, 0
+147, cases, critical, None
+147, cases, recovered, 679745
+147, cases, 1M_pop, 556741
+147, cases, total, 681110
+147, deaths, new, None
+147, deaths, 1M_pop, 1116
+147, deaths, total, 1365
+147, tests, 1M_pop, 7879860
+147, tests, total, 9640118
+147, day, 2024-03-25
+147, time, 2024-03-25T09:45:09+00:00
+148, continent, North-America
+148, country, Dominican-Republic
+148, population, 11056370
+148, cases, new, None
+148, cases, active, 190
+148, cases, critical, 4
+148, cases, recovered, 671316
+148, cases, 1M_pop, 61131
+148, cases, total, 675890
+148, deaths, new, None
+148, deaths, 1M_pop, 397
+148, deaths, total, 4384
+148, tests, 1M_pop, 338350
+148, tests, total, 3740928
+148, day, 2024-03-25
+148, time, 2024-03-25T09:45:09+00:00
+149, continent, South-America
+149, country, Paraguay
+149, population, 7305843
+149, cases, new, None
+149, cases, active, None
+149, cases, critical, None
+149, cases, recovered, None
+149, cases, 1M_pop, 114648
+149, cases, total, 837602
+149, deaths, new, None
+149, deaths, 1M_pop, 2759
+149, deaths, total, 20155
+149, tests, 1M_pop, 363751
+149, tests, total, 2657506
+149, day, 2024-03-25
+149, time, 2024-03-25T09:45:09+00:00
+150, continent, Asia
+150, country, Azerbaijan
+150, population, 10300205
+150, cases, new, None
+150, cases, active, 160
+150, cases, critical, None
+150, cases, recovered, 824089
+150, cases, 1M_pop, 81032
+150, cases, total, 834649
+150, deaths, new, None
+150, deaths, 1M_pop, 1010
+150, deaths, total, 10400
+150, tests, 1M_pop, 752223
+150, tests, total, 7748050
+150, day, 2024-03-25
+150, time, 2024-03-25T09:45:09+00:00
+151, continent, Asia
+151, country, Kuwait
+151, population, 4380326
+151, cases, new, None
+151, cases, active, None
+151, cases, critical, None
+151, cases, recovered, None
+151, cases, 1M_pop, 152293
+151, cases, total, 667094
+151, deaths, new, None
+151, deaths, 1M_pop, 587
+151, deaths, total, 2570
+151, tests, 1M_pop, 1930391
+151, tests, total, 8455743
+151, day, 2024-03-25
+151, time, 2024-03-25T09:45:09+00:00
+152, continent, Europe
+152, country, Moldova
+152, population, 4013171
+152, cases, new, None
+152, cases, active, None
+152, cases, critical, None
+152, cases, recovered, None
+152, cases, 1M_pop, 158106
+152, cases, total, 634508
+152, deaths, new, None
+152, deaths, 1M_pop, 3041
+152, deaths, total, 12206
+152, tests, 1M_pop, 801437
+152, tests, total, 3216305
+152, day, 2024-03-25
+152, time, 2024-03-25T09:45:09+00:00
+153, continent, Asia
+153, country, Sri-Lanka
+153, population, 21575842
+153, cases, new, None
+153, cases, active, 1
+153, cases, critical, None
+153, cases, recovered, 655852
+153, cases, 1M_pop, 31181
+153, cases, total, 672750
+153, deaths, new, None
+153, deaths, 1M_pop, 783
+153, deaths, total, 16897
+153, tests, 1M_pop, 300619
+153, tests, total, 6486117
+153, day, 2024-03-25
+153, time, 2024-03-25T09:45:09+00:00
+154, continent, Europe
+154, country, Estonia
+154, population, 1321910
+154, cases, new, +52
+154, cases, active, None
+154, cases, critical, None
+154, cases, recovered, None
+154, cases, 1M_pop, 475015
+154, cases, total, 627927
+154, deaths, new, None
+154, deaths, 1M_pop, 2270
+154, deaths, total, 3001
+154, tests, 1M_pop, 5260350
+154, tests, total, 6953709
+154, day, 2024-03-25
+154, time, 2024-03-25T09:45:09+00:00
+155, continent, Asia
+155, country, Myanmar
+155, population, 55227143
+155, cases, new, None
+155, cases, active, 2214
+155, cases, critical, None
+155, cases, recovered, 620159
+155, cases, 1M_pop, 11622
+155, cases, total, 641868
+155, deaths, new, None
+155, deaths, 1M_pop, 353
+155, deaths, total, 19495
+155, tests, 1M_pop, 212061
+155, tests, total, 11711514
+155, day, 2024-03-25
+155, time, 2024-03-25T09:45:09+00:00
+156, continent, Europe
+156, country, Latvia
+156, population, 1848837
+156, cases, new, None
+156, cases, active, 4250
+156, cases, critical, None
+156, cases, recovered, 971406
+156, cases, 1M_pop, 531342
+156, cases, total, 982364
+156, deaths, new, None
+156, deaths, 1M_pop, 3628
+156, deaths, total, 6708
+156, tests, 1M_pop, 4265272
+156, tests, total, 7885792
+156, day, 2024-03-25
+156, time, 2024-03-25T09:45:09+00:00
+157, continent, Europe
+157, country, Belarus
+157, population, 9432800
+157, cases, new, None
+157, cases, active, 1327
+157, cases, critical, None
+157, cases, recovered, 985592
+157, cases, 1M_pop, 105381
+157, cases, total, 994037
+157, deaths, new, None
+157, deaths, 1M_pop, 755
+157, deaths, total, 7118
+157, tests, 1M_pop, 1446722
+157, tests, total, 13646641
+157, day, 2024-03-25
+157, time, 2024-03-25T09:45:08+00:00
+158, continent, Asia
+158, country, Lebanon
+158, population, 6684849
+158, cases, new, +3934
+158, cases, active, 145299
+158, cases, critical, 74
+158, cases, recovered, 1087587
+158, cases, 1M_pop, 186068
+158, cases, total, 1243838
+158, deaths, new, +5
+158, deaths, 1M_pop, 1638
+158, deaths, total, 10952
+158, tests, 1M_pop, 717380
+158, tests, total, 4795578
+158, day, 2024-03-25
+158, time, 2024-03-25T09:45:08+00:00
+159, continent, Asia
+159, country, Nepal
+159, population, 30225582
+159, cases, new, None
+159, cases, active, 97
+159, cases, critical, None
+159, cases, recovered, 991322
+159, cases, 1M_pop, 33199
+159, cases, total, 1003450
+159, deaths, new, None
+159, deaths, 1M_pop, 398
+159, deaths, total, 12031
+159, tests, 1M_pop, 200088
+159, tests, total, 6047766
+159, day, 2024-03-25
+159, time, 2024-03-25T09:45:08+00:00
+160, continent, North-America
+160, country, Costa-Rica
+160, population, 5182354
+160, cases, new, None
+160, cases, active, None
+160, cases, critical, None
+160, cases, recovered, None
+160, cases, 1M_pop, 239058
+160, cases, total, 1238883
+160, deaths, new, None
+160, deaths, 1M_pop, 1819
+160, deaths, total, 9428
+160, tests, 1M_pop, 899158
+160, tests, total, 4659757
+160, day, 2024-03-25
+160, time, 2024-03-25T09:45:08+00:00
+161, continent, Africa
+161, country, Tunisia
+161, population, 12046656
+161, cases, new, None
+161, cases, active, None
+161, cases, critical, None
+161, cases, recovered, None
+161, cases, 1M_pop, 95741
+161, cases, total, 1153361
+161, deaths, new, None
+161, deaths, 1M_pop, 2442
+161, deaths, total, 29423
+161, tests, 1M_pop, 416164
+161, tests, total, 5013383
+161, day, 2024-03-25
+161, time, 2024-03-25T09:45:08+00:00
+162, continent, Asia
+162, country, UAE
+162, population, 10081785
+162, cases, new, None
+162, cases, active, None
+162, cases, critical, None
+162, cases, recovered, None
+162, cases, 1M_pop, 105837
+162, cases, total, 1067030
+162, deaths, new, None
+162, deaths, 1M_pop, 233
+162, deaths, total, 2349
+162, tests, 1M_pop, 19910389
+162, tests, total, 200732262
+162, day, 2024-03-25
+162, time, 2024-03-25T09:45:08+00:00
+163, continent, South-America
+163, country, Uruguay
+163, population, 3496016
+163, cases, new, None
+163, cases, active, 2503
+163, cases, critical, 18
+163, cases, recovered, 1030944
+163, cases, 1M_pop, 297799
+163, cases, total, 1041111
+163, deaths, new, None
+163, deaths, 1M_pop, 2192
+163, deaths, total, 7664
+163, tests, 1M_pop, 1749083
+163, tests, total, 6114822
+163, day, 2024-03-25
+163, time, 2024-03-25T09:45:08+00:00
+164, continent, South-America
+164, country, Bolivia
+164, population, 11992656
+164, cases, new, None
+164, cases, active, 12164
+164, cases, critical, 220
+164, cases, recovered, 1177145
+164, cases, 1M_pop, 101038
+164, cases, total, 1211716
+164, deaths, new, None
+164, deaths, 1M_pop, 1868
+164, deaths, total, 22407
+164, tests, 1M_pop, 225993
+164, tests, total, 2710261
+164, day, 2024-03-25
+164, time, 2024-03-25T09:45:08+00:00
+165, continent, Europe
+165, country, Croatia
+165, population, 4059286
+165, cases, new, None
+165, cases, active, 32609
+165, cases, critical, None
+165, cases, recovered, 1258432
+165, cases, 1M_pop, 322650
+165, cases, total, 1309728
+165, deaths, new, None
+165, deaths, 1M_pop, 4604
+165, deaths, total, 18687
+165, tests, 1M_pop, 1394355
+165, tests, total, 5660084
+165, day, 2024-03-25
+165, time, 2024-03-25T09:45:08+00:00
+166, continent, South-America
+166, country, Ecuador
+166, population, 18113361
+166, cases, new, None
+166, cases, active, 0
+166, cases, critical, None
+166, cases, recovered, 1034145
+166, cases, 1M_pop, 59083
+166, cases, total, 1070188
+166, deaths, new, None
+166, deaths, 1M_pop, 1990
+166, deaths, total, 36043
+166, tests, 1M_pop, 170173
+166, tests, total, 3082403
+166, day, 2024-03-25
+166, time, 2024-03-25T09:45:08+00:00
+167, continent, Africa
+167, country, Morocco
+167, population, 37772756
+167, cases, new, None
+167, cases, active, None
+167, cases, critical, None
+167, cases, recovered, None
+167, cases, 1M_pop, 33859
+167, cases, total, 1278944
+167, deaths, new, None
+167, deaths, 1M_pop, 432
+167, deaths, total, 16301
+167, tests, 1M_pop, 344191
+167, tests, total, 13001033
+167, day, 2024-03-25
+167, time, 2024-03-25T09:45:08+00:00
+168, continent, Asia
+168, country, Mongolia
+168, population, 3378078
+168, cases, new, None
+168, cases, active, 0
+168, cases, critical, None
+168, cases, recovered, 1009175
+168, cases, 1M_pop, 299418
+168, cases, total, 1011459
+168, deaths, new, None
+168, deaths, 1M_pop, 676
+168, deaths, total, 2284
+168, tests, 1M_pop, 1193000
+168, tests, total, 4030048
+168, day, 2024-03-25
+168, time, 2024-03-25T09:45:08+00:00
+169, continent, North-America
+169, country, Panama
+169, population, 4446964
+169, cases, new, None
+169, cases, active, 64
+169, cases, critical, 16
+169, cases, recovered, 1051102
+169, cases, 1M_pop, 238341
+169, cases, total, 1059893
+169, deaths, new, None
+169, deaths, 1M_pop, 1962
+169, deaths, total, 8727
+169, tests, 1M_pop, 1772585
+169, tests, total, 7882622
+169, day, 2024-03-25
+169, time, 2024-03-25T09:45:08+00:00
+170, continent, North-America
+170, country, Cuba
+170, population, 11305652
+170, cases, new, None
+170, cases, active, 62
+170, cases, critical, None
+170, cases, recovered, 1106656
+170, cases, 1M_pop, 98645
+170, cases, total, 1115248
+170, deaths, new, None
+170, deaths, 1M_pop, 754
+170, deaths, total, 8530
+170, tests, 1M_pop, 1273880
+170, tests, total, 14402039
+170, day, 2024-03-25
+170, time, 2024-03-25T09:45:08+00:00
+171, continent, Europe
+171, country, Bulgaria
+171, population, 6844597
+171, cases, new, +19
+171, cases, active, 8065
+171, cases, critical, 35
+171, cases, recovered, 1292903
+171, cases, 1M_pop, 195733
+171, cases, total, 1339714
+171, deaths, new, +2
+171, deaths, 1M_pop, 5661
+171, deaths, total, 38746
+171, tests, 1M_pop, 1703120
+171, tests, total, 11657172
+171, day, 2024-03-25
+171, time, 2024-03-25T09:45:08+00:00
+172, continent, North-America
+172, country, Guatemala
+172, population, 18584039
+172, cases, new, None
+172, cases, active, 1524
+172, cases, critical, 5
+172, cases, recovered, 1269044
+172, cases, 1M_pop, 69460
+172, cases, total, 1290854
+172, deaths, new, None
+172, deaths, 1M_pop, 1092
+172, deaths, total, 20286
+172, tests, 1M_pop, 408622
+172, tests, total, 7593848
+172, day, 2024-03-25
+172, time, 2024-03-25T09:45:08+00:00
+173, continent, Asia
+173, country, Jordan
+173, population, 10300869
+173, cases, new, None
+173, cases, active, 1868
+173, cases, critical, 59
+173, cases, recovered, 1731007
+173, cases, 1M_pop, 169597
+173, cases, total, 1746997
+173, deaths, new, None
+173, deaths, 1M_pop, 1371
+173, deaths, total, 14122
+173, tests, 1M_pop, 1669945
+173, tests, total, 17201885
+173, day, 2024-03-25
+173, time, 2024-03-25T09:45:07+00:00
+174, continent, Asia
+174, country, Kazakhstan
+174, population, 19205043
+174, cases, new, +63
+174, cases, active, 14963
+174, cases, critical, 24
+174, cases, recovered, 1383020
+174, cases, 1M_pop, 73514
+174, cases, total, 1411831
+174, deaths, new, None
+174, deaths, 1M_pop, 721
+174, deaths, total, 13848
+174, tests, 1M_pop, 602707
+174, tests, total, 11575012
+174, day, 2024-03-25
+174, time, 2024-03-25T09:45:07+00:00
+175, continent, Asia
+175, country, Pakistan
+175, population, 229488994
+175, cases, new, None
+175, cases, active, 12583
+175, cases, critical, None
+175, cases, recovered, 1538689
+175, cases, 1M_pop, 6893
+175, cases, total, 1581936
+175, deaths, new, None
+175, deaths, 1M_pop, 134
+175, deaths, total, 30664
+175, tests, 1M_pop, 133292
+175, tests, total, 30589153
+175, day, 2024-03-25
+175, time, 2024-03-25T09:45:07+00:00
+176, continent, Asia
+176, country, Iraq
+176, population, 42164965
+176, cases, new, None
+176, cases, active, 673
+176, cases, critical, None
+176, cases, recovered, 2439497
+176, cases, 1M_pop, 58474
+176, cases, total, 2465545
+176, deaths, new, None
+176, deaths, 1M_pop, 602
+176, deaths, total, 25375
+176, tests, 1M_pop, 463523
+176, tests, total, 19544451
+176, day, 2024-03-25
+176, time, 2024-03-25T09:45:07+00:00
+177, continent, Asia
+177, country, Georgia
+177, population, 3968738
+177, cases, new, None
+177, cases, active, None
+177, cases, critical, None
+177, cases, recovered, None
+177, cases, 1M_pop, 467476
+177, cases, total, 1855289
+177, deaths, new, None
+177, deaths, 1M_pop, 4317
+177, deaths, total, 17132
+177, tests, 1M_pop, 4263340
+177, tests, total, 16920079
+177, day, 2024-03-25
+177, time, 2024-03-25T09:45:07+00:00
+178, continent, Asia
+178, country, Bangladesh
+178, population, 167885689
+178, cases, new, None
+178, cases, active, None
+178, cases, critical, None
+178, cases, recovered, None
+178, cases, 1M_pop, 12200
+178, cases, total, 2048186
+178, deaths, new, None
+178, deaths, 1M_pop, 176
+178, deaths, total, 29488
+178, tests, 1M_pop, 90862
+178, tests, total, 15254399
+178, day, 2024-03-25
+178, time, 2024-03-25T09:45:07+00:00
+179, continent, Europe
+179, country, Hungary
+179, population, 9606259
+179, cases, new, None
+179, cases, active, 28792
+179, cases, critical, None
+179, cases, recovered, 2152155
+179, cases, 1M_pop, 232139
+179, cases, total, 2229987
+179, deaths, new, None
+179, deaths, 1M_pop, 5105
+179, deaths, total, 49040
+179, tests, 1M_pop, 1186160
+179, tests, total, 11394556
+179, day, 2024-03-25
+179, time, 2024-03-25T09:45:07+00:00
+180, continent, Europe
+180, country, Slovakia
+180, population, 5460193
+180, cases, new, None
+180, cases, active, 0
+180, cases, critical, 23
+180, cases, recovered, 1856162
+180, cases, 1M_pop, 343831
+180, cases, total, 1877383
+180, deaths, new, None
+180, deaths, 1M_pop, 3886
+180, deaths, total, 21221
+180, tests, 1M_pop, 1364199
+180, tests, total, 7448789
+180, day, 2024-03-25
+180, time, 2024-03-25T09:45:07+00:00
+181, continent, Europe
+181, country, Norway
+181, population, 5511370
+181, cases, new, None
+181, cases, active, 0
+181, cases, critical, None
+181, cases, recovered, 1503094
+181, cases, 1M_pop, 273930
+181, cases, total, 1509732
+181, deaths, new, None
+181, deaths, 1M_pop, 1204
+181, deaths, total, 6638
+181, tests, 1M_pop, 1996315
+181, tests, total, 11002430
+181, day, 2024-03-25
+181, time, 2024-03-25T09:45:07+00:00
+182, continent, Europe
+182, country, Ireland
+182, population, 5020199
+182, cases, new, None
+182, cases, active, 0
+182, cases, critical, 19
+182, cases, recovered, 1724274
+182, cases, 1M_pop, 345356
+182, cases, total, 1733755
+182, deaths, new, None
+182, deaths, 1M_pop, 1889
+182, deaths, total, 9481
+182, tests, 1M_pop, 2606161
+182, tests, total, 13083449
+182, day, 2024-03-25
+182, time, 2024-03-25T09:45:07+00:00
+183, continent, Oceania
+183, country, New-Zealand
+183, population, 4898203
+183, cases, new, None
+183, cases, active, 2894
+183, cases, critical, None
+183, cases, recovered, 2605102
+183, cases, 1M_pop, 533598
+183, cases, total, 2613670
+183, deaths, new, None
+183, deaths, 1M_pop, 1158
+183, deaths, total, 5674
+183, tests, 1M_pop, 1586011
+183, tests, total, 7768604
+183, day, 2024-03-25
+183, time, 2024-03-25T09:45:07+00:00
+184, continent, Europe
+184, country, Finland
+184, population, 5554960
+184, cases, new, None
+184, cases, active, 313
+184, cases, critical, None
+184, cases, recovered, 1503678
+184, cases, 1M_pop, 272900
+184, cases, total, 1515949
+184, deaths, new, None
+184, deaths, 1M_pop, 2153
+184, deaths, total, 11958
+184, tests, 1M_pop, 2179850
+184, tests, total, 12108977
+184, day, 2024-03-25
+184, time, 2024-03-25T09:45:07+00:00
+185, continent, Europe
+185, country, Slovenia
+185, population, 2078034
+185, cases, new, +1
+185, cases, active, 34
+185, cases, critical, None
+185, cases, recovered, 1349377
+185, cases, 1M_pop, 652786
+185, cases, total, 1356511
+185, deaths, new, None
+185, deaths, 1M_pop, 3417
+185, deaths, total, 7100
+185, tests, 1M_pop, 1370382
+185, tests, total, 2847701
+185, day, 2024-03-25
+185, time, 2024-03-25T09:45:07+00:00
+186, continent, Europe
+186, country, Lithuania
+186, population, 2661708
+186, cases, new, +4
+186, cases, active, 695
+186, cases, critical, None
+186, cases, recovered, 1386779
+186, cases, 1M_pop, 524990
+186, cases, total, 1397371
+186, deaths, new, None
+186, deaths, 1M_pop, 3718
+186, deaths, total, 9897
+186, tests, 1M_pop, 3959997
+186, tests, total, 10540357
+186, day, 2024-03-25
+186, time, 2024-03-25T09:45:07+00:00
+187, continent, Asia
+187, country, DPRK
+187, population, 25990679
+187, cases, new, None
+187, cases, active, 0
+187, cases, critical, None
+187, cases, recovered, 4772739
+187, cases, 1M_pop, 183636
+187, cases, total, 4772813
+187, deaths, new, None
+187, deaths, 1M_pop, 3
+187, deaths, total, 74
+187, tests, 1M_pop, None
+187, tests, total, None
+187, day, 2024-03-25
+187, time, 2024-03-25T09:45:06+00:00
+188, continent, Africa
+188, country, South-Africa
+188, population, 60756135
+188, cases, new, +614
+188, cases, active, 61362
+188, cases, critical, 192
+188, cases, recovered, 3912506
+188, cases, 1M_pop, 67095
+188, cases, total, 4076463
+188, deaths, new, None
+188, deaths, 1M_pop, 1689
+188, deaths, total, 102595
+188, tests, 1M_pop, 441027
+188, tests, total, 26795090
+188, day, 2024-03-25
+188, time, 2024-03-25T09:45:06+00:00
+189, continent, Europe
+189, country, Denmark
+189, population, 5834950
+189, cases, new, None
+189, cases, active, 0
+189, cases, critical, None
+189, cases, recovered, 3174942
+189, cases, 1M_pop, 545636
+189, cases, total, 3183756
+189, deaths, new, None
+189, deaths, 1M_pop, 1511
+189, deaths, total, 8814
+189, tests, 1M_pop, 22165247
+189, tests, total, 129333107
+189, day, 2024-03-25
+189, time, 2024-03-25T09:45:06+00:00
+190, continent, Asia
+190, country, Israel
+190, population, 9326000
+190, cases, new, None
+190, cases, active, 30592
+190, cases, critical, None
+190, cases, recovered, 4798473
+190, cases, 1M_pop, 519169
+190, cases, total, 4841772
+190, deaths, new, None
+190, deaths, 1M_pop, 1363
+190, deaths, total, 12707
+190, tests, 1M_pop, 4436346
+190, tests, total, 41373364
+190, day, 2024-03-25
+190, time, 2024-03-25T09:45:06+00:00
+191, continent, Asia
+191, country, Philippines
+191, population, 112508994
+191, cases, new, +502
+191, cases, active, 6138
+191, cases, critical, None
+191, cases, recovered, 4067381
+191, cases, 1M_pop, 36800
+191, cases, total, 4140383
+191, deaths, new, None
+191, deaths, 1M_pop, 594
+191, deaths, total, 66864
+191, tests, 1M_pop, 320888
+191, tests, total, 36102746
+191, day, 2024-03-25
+191, time, 2024-03-25T09:45:06+00:00
+192, continent, South-America
+192, country, Peru
+192, population, 33684208
+192, cases, new, None
+192, cases, active, 0
+192, cases, critical, 4
+192, cases, recovered, 4350506
+192, cases, 1M_pop, 135751
+192, cases, total, 4572667
+192, deaths, new, None
+192, deaths, 1M_pop, 6595
+192, deaths, total, 222161
+192, tests, 1M_pop, 1158115
+192, tests, total, 39010194
+192, day, 2024-03-25
+192, time, 2024-03-25T09:45:06+00:00
+193, continent, Asia
+193, country, Singapore
+193, population, 5943546
+193, cases, new, None
+193, cases, active, 0
+193, cases, critical, 4
+193, cases, recovered, 3004131
+193, cases, 1M_pop, 505785
+193, cases, total, 3006155
+193, deaths, new, None
+193, deaths, 1M_pop, 341
+193, deaths, total, 2024
+193, tests, 1M_pop, 4165302
+193, tests, total, 24756666
+193, day, 2024-03-25
+193, time, 2024-03-25T09:45:06+00:00
+194, continent, Europe
+194, country, Switzerland
+194, population, 8773637
+194, cases, new, None
+194, cases, active, 0
+194, cases, critical, None
+194, cases, recovered, 4437333
+194, cases, 1M_pop, 507405
+194, cases, total, 4451785
+194, deaths, new, None
+194, deaths, 1M_pop, 1647
+194, deaths, total, 14452
+194, tests, 1M_pop, 2716487
+194, tests, total, 23833472
+194, day, 2024-03-25
+194, time, 2024-03-25T09:45:06+00:00
+195, continent, Europe
+195, country, Romania
+195, population, 19031335
+195, cases, new, None
+195, cases, active, 1011
+195, cases, critical, 28
+195, cases, recovered, 3458760
+195, cases, 1M_pop, 185415
+195, cases, total, 3528688
+195, deaths, new, None
+195, deaths, 1M_pop, 3621
+195, deaths, total, 68917
+195, tests, 1M_pop, 1508766
+195, tests, total, 28713830
+195, day, 2024-03-25
+195, time, 2024-03-25T09:45:06+00:00
+196, continent, Asia
+196, country, Hong-Kong
+196, population, 7604299
+196, cases, new, None
+196, cases, active, 5062
+196, cases, critical, None
+196, cases, recovered, 2913820
+196, cases, 1M_pop, 385783
+196, cases, total, 2933613
+196, deaths, new, None
+196, deaths, 1M_pop, 1937
+196, deaths, total, 14731
+196, tests, 1M_pop, 10011143
+196, tests, total, 76127725
+196, day, 2024-03-25
+196, time, 2024-03-25T09:45:06+00:00
+197, continent, Asia
+197, country, Thailand
+197, population, 70078203
+197, cases, new, None
+197, cases, active, 41435
+197, cases, critical, None
+197, cases, recovered, 4692636
+197, cases, 1M_pop, 68048
+197, cases, total, 4768647
+197, deaths, new, None
+197, deaths, 1M_pop, 493
+197, deaths, total, 34576
+197, tests, 1M_pop, 246488
+197, tests, total, 17273454
+197, day, 2024-03-25
+197, time, 2024-03-25T09:45:06+00:00
+198, continent, Europe
+198, country, Czechia
+198, population, 10736784
+198, cases, new, +2
+198, cases, active, 311
+198, cases, critical, 2
+198, cases, recovered, 4715175
+198, cases, 1M_pop, 443243
+198, cases, total, 4759002
+198, deaths, new, None
+198, deaths, 1M_pop, 4053
+198, deaths, total, 43516
+198, tests, 1M_pop, 5386540
+198, tests, total, 57834118
+198, day, 2024-03-25
+198, time, 2024-03-25T09:45:06+00:00
+199, continent, Europe
+199, country, Belgium
+199, population, 11668278
+199, cases, new, None
+199, cases, active, 1036
+199, cases, critical, None
+199, cases, recovered, 4825907
+199, cases, 1M_pop, 416627
+199, cases, total, 4861319
+199, deaths, new, None
+199, deaths, 1M_pop, 2946
+199, deaths, total, 34376
+199, tests, 1M_pop, 3209915
+199, tests, total, 37454182
+199, day, 2024-03-25
+199, time, 2024-03-25T09:45:06+00:00
+200, continent, Europe
+200, country, Sweden
+200, population, 10218971
+200, cases, new, None
+200, cases, active, 430
+200, cases, critical, None
+200, cases, recovered, 2726133
+200, cases, 1M_pop, 269494
+200, cases, total, 2753953
+200, deaths, new, None
+200, deaths, 1M_pop, 2680
+200, deaths, total, 27390
+200, tests, 1M_pop, 1908301
+200, tests, total, 19500873
+200, day, 2024-03-25
+200, time, 2024-03-25T09:45:06+00:00
+201, continent, Europe
+201, country, Serbia
+201, population, 8653016
+201, cases, new, None
+201, cases, active, 244
+201, cases, critical, None
+201, cases, recovered, 2596364
+201, cases, 1M_pop, 302168
+201, cases, total, 2614665
+201, deaths, new, None
+201, deaths, 1M_pop, 2087
+201, deaths, total, 18057
+201, tests, 1M_pop, 1553848
+201, tests, total, 13445472
+201, day, 2024-03-25
+201, time, 2024-03-25T09:45:06+00:00
+202, continent, Europe
+202, country, Ukraine
+202, population, 43192122
+202, cases, new, None
+202, cases, active, 0
+202, cases, critical, None
+202, cases, recovered, 5445577
+202, cases, 1M_pop, 128681
+202, cases, total, 5557995
+202, deaths, new, None
+202, deaths, 1M_pop, 2603
+202, deaths, total, 112418
+202, tests, 1M_pop, 754855
+202, tests, total, 32603805
+202, day, 2024-03-25
+202, time, 2024-03-25T09:45:05+00:00
+203, continent, Europe
+203, country, Austria
+203, population, 9066710
+203, cases, new, None
+203, cases, active, 3811
+203, cases, critical, None
+203, cases, recovered, 6054934
+203, cases, 1M_pop, 670727
+203, cases, total, 6081287
+203, deaths, new, None
+203, deaths, 1M_pop, 2486
+203, deaths, total, 22542
+203, tests, 1M_pop, 23302116
+203, tests, total, 211273524
+203, day, 2024-03-25
+203, time, 2024-03-25T09:45:05+00:00
+204, continent, Europe
+204, country, Greece
+204, population, 10316637
+204, cases, new, None
+204, cases, active, None
+204, cases, critical, None
+204, cases, recovered, None
+204, cases, 1M_pop, 591412
+204, cases, total, 6101379
+204, deaths, new, None
+204, deaths, 1M_pop, 3671
+204, deaths, total, 37869
+204, tests, 1M_pop, 9909078
+204, tests, total, 102228365
+204, day, 2024-03-25
+204, time, 2024-03-25T09:45:05+00:00
+205, continent, North-America
+205, country, Mexico
+205, population, 131562772
+205, cases, new, None
+205, cases, active, 467986
+205, cases, critical, None
+205, cases, recovered, 6899865
+205, cases, 1M_pop, 58549
+205, cases, total, 7702809
+205, deaths, new, None
+205, deaths, 1M_pop, 2546
+205, deaths, total, 334958
+205, tests, 1M_pop, 152124
+205, tests, total, 20013810
+205, day, 2024-03-25
+205, time, 2024-03-25T09:45:05+00:00
+206, continent, Asia
+206, country, Iran
+206, population, 86022837
+206, cases, new, None
+206, cases, active, None
+206, cases, critical, None
+206, cases, recovered, None
+206, cases, 1M_pop, 88657
+206, cases, total, 7626527
+206, deaths, new, None
+206, deaths, 1M_pop, 1707
+206, deaths, total, 146799
+206, tests, 1M_pop, 666338
+206, tests, total, 57320267
+206, day, 2024-03-25
+206, time, 2024-03-25T09:45:05+00:00
+207, continent, South-America
+207, country, Argentina
+207, population, 46010234
+207, cases, new, None
+207, cases, active, 0
+207, cases, critical, None
+207, cases, recovered, 9963910
+207, cases, 1M_pop, 219400
+207, cases, total, 10094643
+207, deaths, new, None
+207, deaths, 1M_pop, 2841
+207, deaths, total, 130733
+207, tests, 1M_pop, 776264
+207, tests, total, 35716069
+207, day, 2024-03-25
+207, time, 2024-03-25T09:45:05+00:00
+208, continent, South-America
+208, country, Colombia
+208, population, 51512762
+208, cases, new, None
+208, cases, active, 44821
+208, cases, critical, 342
+208, cases, recovered, 6212152
+208, cases, 1M_pop, 124244
+208, cases, total, 6400173
+208, deaths, new, None
+208, deaths, 1M_pop, 2780
+208, deaths, total, 143200
+208, tests, 1M_pop, 717327
+208, tests, total, 36951507
+208, day, 2024-03-25
+208, time, 2024-03-25T09:45:05+00:00
+209, continent, Europe
+209, country, Portugal
+209, population, 10140570
+209, cases, new, None
+209, cases, active, 0
+209, cases, critical, 61
+209, cases, recovered, 5614346
+209, cases, 1M_pop, 556423
+209, cases, total, 5642449
+209, deaths, new, None
+209, deaths, 1M_pop, 2771
+209, deaths, total, 28103
+209, tests, 1M_pop, 4549993
+209, tests, total, 46139518
+209, day, 2024-03-25
+209, time, 2024-03-25T09:45:05+00:00
+210, continent, Europe
+210, country, Netherlands
+210, population, 17211447
+210, cases, new, None
+210, cases, active, 0
+210, cases, critical, None
+210, cases, recovered, 8611830
+210, cases, 1M_pop, 501691
+210, cases, total, 8634822
+210, deaths, new, None
+210, deaths, 1M_pop, 1336
+210, deaths, total, 22992
+210, tests, 1M_pop, 1509718
+210, tests, total, 25984435
+210, day, 2024-03-25
+210, time, 2024-03-25T09:45:05+00:00
+211, continent, South-America
+211, country, Chile
+211, population, 19250195
+211, cases, new, None
+211, cases, active, 59652
+211, cases, critical, 7
+211, cases, recovered, 5252450
+211, cases, 1M_pop, 279301
+211, cases, total, 5376599
+211, deaths, new, None
+211, deaths, 1M_pop, 3350
+211, deaths, total, 64497
+211, tests, 1M_pop, 2617225
+211, tests, total, 50382097
+211, day, 2024-03-25
+211, time, 2024-03-25T09:45:05+00:00
+212, continent, Asia
+212, country, Malaysia
+212, population, 33181072
+212, cases, new, None
+212, cases, active, 7980
+212, cases, critical, 11
+212, cases, recovered, 5232213
+212, cases, 1M_pop, 159053
+212, cases, total, 5277541
+212, deaths, new, None
+212, deaths, 1M_pop, 1126
+212, deaths, total, 37348
+212, tests, 1M_pop, 2066869
+212, tests, total, 68580916
+212, day, 2024-03-25
+212, time, 2024-03-25T09:45:05+00:00
+213, continent, Asia
+213, country, Indonesia
+213, population, 279134505
+213, cases, new, None
+213, cases, active, 19995
+213, cases, critical, None
+213, cases, recovered, 6647104
+213, cases, 1M_pop, 24465
+213, cases, total, 6829162
+213, deaths, new, None
+213, deaths, 1M_pop, 581
+213, deaths, total, 162063
+213, tests, 1M_pop, 408975
+213, tests, total, 114158919
+213, day, 2024-03-25
+213, time, 2024-03-25T09:45:05+00:00
+214, continent, Europe
+214, country, Poland
+214, population, 37739785
+214, cases, new, +2
+214, cases, active, None
+214, cases, critical, None
+214, cases, recovered, None
+214, cases, 1M_pop, 176516
+214, cases, total, 6661684
+214, deaths, new, None
+214, deaths, 1M_pop, 3195
+214, deaths, total, 120597
+214, tests, 1M_pop, 1041704
+214, tests, total, 39313696
+214, day, 2024-03-25
+214, time, 2024-03-25T09:45:05+00:00
+215, continent, North-America
+215, country, Canada
+215, population, 38388419
+215, cases, new, None
+215, cases, active, 6993
+215, cases, critical, 99
+215, cases, recovered, 4873652
+215, cases, 1M_pop, 128666
+215, cases, total, 4939288
+215, deaths, new, None
+215, deaths, 1M_pop, 1528
+215, deaths, total, 58643
+215, tests, 1M_pop, 1734189
+215, tests, total, 66572774
+215, day, 2024-03-25
+215, time, 2024-03-25T09:45:05+00:00
+216, continent, Europe
+216, country, Spain
+216, population, 46719142
+216, cases, new, +702
+216, cases, active, 30634
+216, cases, critical, 231
+216, cases, recovered, 13762417
+216, cases, 1M_pop, 297840
+216, cases, total, 13914811
+216, deaths, new, +8
+216, deaths, 1M_pop, 2606
+216, deaths, total, 121760
+216, tests, 1M_pop, 10082298
+216, tests, total, 471036328
+216, day, 2024-03-25
+216, time, 2024-03-25T09:45:04+00:00
+217, continent, Asia
+217, country, Taiwan
+217, population, 23888595
+217, cases, new, None
+217, cases, active, 0
+217, cases, critical, None
+217, cases, recovered, 10222518
+217, cases, 1M_pop, 428720
+217, cases, total, 10241523
+217, deaths, new, None
+217, deaths, 1M_pop, 796
+217, deaths, total, 19005
+217, tests, 1M_pop, 1286903
+217, tests, total, 30742304
+217, day, 2024-03-25
+217, time, 2024-03-25T09:45:04+00:00
+218, continent, Asia
+218, country, Japan
+218, population, 125584838
+218, cases, new, None
+218, cases, active, None
+218, cases, critical, None
+218, cases, recovered, None
+218, cases, 1M_pop, 269169
+218, cases, total, 33803572
+218, deaths, new, None
+218, deaths, 1M_pop, 595
+218, deaths, total, 74694
+218, tests, 1M_pop, 799578
+218, tests, total, 100414883
+218, day, 2024-03-25
+218, time, 2024-03-25T09:45:04+00:00
+219, continent, Europe
+219, country, France
+219, population, 65584518
+219, cases, new, None
+219, cases, active, 0
+219, cases, critical, None
+219, cases, recovered, 39970918
+219, cases, 1M_pop, 612013
+219, cases, total, 40138560
+219, deaths, new, None
+219, deaths, 1M_pop, 2556
+219, deaths, total, 167642
+219, tests, 1M_pop, 4139547
+219, tests, total, 271490188
+219, day, 2024-03-25
+219, time, 2024-03-25T09:45:04+00:00
+220, continent, Asia
+220, country, S-Korea
+220, population, 51329899
+220, cases, new, None
+220, cases, active, 0
+220, cases, critical, None
+220, cases, recovered, 34535939
+220, cases, 1M_pop, 673523
+220, cases, total, 34571873
+220, deaths, new, None
+220, deaths, 1M_pop, 700
+220, deaths, total, 35934
+220, tests, 1M_pop, 307892
+220, tests, total, 15804065
+220, day, 2024-03-25
+220, time, 2024-03-25T09:45:04+00:00
+221, continent, Asia
+221, country, Turkey
+221, population, 85561976
+221, cases, new, None
+221, cases, active, None
+221, cases, critical, None
+221, cases, recovered, None
+221, cases, 1M_pop, 201399
+221, cases, total, 17232066
+221, deaths, new, None
+221, deaths, 1M_pop, 1194
+221, deaths, total, 102174
+221, tests, 1M_pop, 1902052
+221, tests, total, 162743369
+221, day, 2024-03-25
+221, time, 2024-03-25T09:45:04+00:00
+222, continent, Asia
+222, country, Vietnam
+222, population, 98953541
+222, cases, new, None
+222, cases, active, 941018
+222, cases, critical, None
+222, cases, recovered, 10640971
+222, cases, 1M_pop, 117481
+222, cases, total, 11625195
+222, deaths, new, None
+222, deaths, 1M_pop, 437
+222, deaths, total, 43206
+222, tests, 1M_pop, 867342
+222, tests, total, 85826548
+222, day, 2024-03-25
+222, time, 2024-03-25T09:45:04+00:00
+223, continent, Europe
+223, country, UK
+223, population, 68497907
+223, cases, new, None
+223, cases, active, 0
+223, cases, critical, None
+223, cases, recovered, 24670859
+223, cases, 1M_pop, 363558
+223, cases, total, 24902971
+223, deaths, new, None
+223, deaths, 1M_pop, 3389
+223, deaths, total, 232112
+223, tests, 1M_pop, 7628357
+223, tests, total, 522526476
+223, day, 2024-03-25
+223, time, 2024-03-25T09:45:04+00:00
+224, continent, Europe
+224, country, Russia
+224, population, 145805947
+224, cases, new, +24056
+224, cases, active, 180469
+224, cases, critical, None
+224, cases, recovered, 23474749
+224, cases, 1M_pop, 164998
+224, cases, total, 24057759
+224, deaths, new, +77
+224, deaths, 1M_pop, 2761
+224, deaths, total, 402541
+224, tests, 1M_pop, 1875095
+224, tests, total, 273400000
+224, day, 2024-03-25
+224, time, 2024-03-25T09:45:04+00:00
+225, continent, South-America
+225, country, Brazil
+225, population, 215353593
+225, cases, new, None
+225, cases, active, 1734094
+225, cases, critical, None
+225, cases, recovered, 36249161
+225, cases, 1M_pop, 179678
+225, cases, total, 38694221
+225, deaths, new, None
+225, deaths, 1M_pop, 3301
+225, deaths, total, 710966
+225, tests, 1M_pop, 296146
+225, tests, total, 63776166
+225, day, 2024-03-25
+225, time, 2024-03-25T09:45:04+00:00
+226, continent, Europe
+226, country, Germany
+226, population, 83883596
+226, cases, new, None
+226, cases, active, 402813
+226, cases, critical, None
+226, cases, recovered, 38240600
+226, cases, 1M_pop, 462859
+226, cases, total, 38826304
+226, deaths, new, None
+226, deaths, 1M_pop, 2180
+226, deaths, total, 182891
+226, tests, 1M_pop, 1458359
+226, tests, total, 122332384
+226, day, 2024-03-25
+226, time, 2024-03-25T09:45:04+00:00
+227, continent, Europe
+227, country, Italy
+227, population, 60262770
+227, cases, new, None
+227, cases, active, 169361
+227, cases, critical, 27
+227, cases, recovered, 26356336
+227, cases, 1M_pop, 443427
+227, cases, total, 26722143
+227, deaths, new, None
+227, deaths, 1M_pop, 3260
+227, deaths, total, 196446
+227, tests, 1M_pop, 4661420
+227, tests, total, 280910073
+227, day, 2024-03-25
+227, time, 2024-03-25T09:45:04+00:00
+228, continent, Asia
+228, country, India
+228, population, 1406631776
+228, cases, new, +132
+228, cases, active, None
+228, cases, critical, None
+228, cases, recovered, None
+228, cases, 1M_pop, 32015
+228, cases, total, 45033644
+228, deaths, new, +2
+228, deaths, 1M_pop, 379
+228, deaths, total, 533539
+228, tests, 1M_pop, 665334
+228, tests, total, 935879495
+228, day, 2024-03-25
+228, time, 2024-03-25T09:45:04+00:00
+229, continent, North-America
+229, country, USA
+229, population, 334805269
+229, cases, new, +754
+229, cases, active, 871667
+229, cases, critical, 1191
+229, cases, recovered, 109639107
+229, cases, 1M_pop, 333714
+229, cases, total, 111729242
+229, deaths, new, +1
+229, deaths, 1M_pop, 3639
+229, deaths, total, 1218468
+229, tests, 1M_pop, 3544862
+229, tests, total, 1186838503
+229, day, 2024-03-25
+229, time, 2024-03-25T09:45:04+00:00
+230, continent, Oceania
+230, country, Australia
+230, population, 26068792
+230, cases, new, +331
+230, cases, active, 8771
+230, cases, critical, 7
+230, cases, recovered, 11806633
+230, cases, 1M_pop, 454173
+230, cases, total, 11839730
+230, deaths, new, None
+230, deaths, 1M_pop, 933
+230, deaths, total, 24326
+230, tests, 1M_pop, 3142326
+230, tests, total, 81916639
+230, day, 2024-03-25
+230, time, 2024-03-25T09:45:04+00:00
+231, continent, Africa
+231, country, Africa
+231, population, None
+231, cases, new, +5
+231, cases, active, 510617
+231, cases, critical, 529
+231, cases, recovered, 12090791
+231, cases, 1M_pop, None
+231, cases, total, 12860292
+231, deaths, new, None
+231, deaths, 1M_pop, None
+231, deaths, total, 258884
+231, tests, 1M_pop, None
+231, tests, total, None
+231, day, 2024-03-25
+231, time, 2024-03-25T09:45:03+00:00
+232, continent, South-America
+232, country, South-America
+232, population, None
+232, cases, new, None
+232, cases, active, 2091264
+232, cases, critical, 8953
+232, cases, recovered, 66650237
+232, cases, 1M_pop, None
+232, cases, total, 70108311
+232, deaths, new, None
+232, deaths, 1M_pop, None
+232, deaths, total, 1366810
+232, tests, 1M_pop, None
+232, tests, total, None
+232, day, 2024-03-25
+232, time, 2024-03-25T09:45:03+00:00
+233, continent, Asia
+233, country, Asia
+233, population, None
+233, cases, new, +132
+233, cases, active, 14258615
+233, cases, critical, 14733
+233, cases, recovered, 205666877
+233, cases, 1M_pop, None
+233, cases, total, 221478891
+233, deaths, new, +2
+233, deaths, 1M_pop, None
+233, deaths, total, 1553399
+233, tests, 1M_pop, None
+233, tests, total, None
+233, day, 2024-03-25
+233, time, 2024-03-25T09:45:03+00:00
+234, continent, North-America
+234, country, North-America
+234, population, None
+234, cases, new, None
+234, cases, active, 2615192
+234, cases, critical, 6346
+234, cases, recovered, 127481297
+234, cases, 1M_pop, None
+234, cases, total, 131791017
+234, deaths, new, None
+234, deaths, 1M_pop, None
+234, deaths, total, 1694528
+234, tests, 1M_pop, None
+234, tests, total, None
+234, day, 2024-03-25
+234, time, 2024-03-25T09:45:03+00:00
+235, continent, Europe
+235, country, Europe
+235, population, None
+235, cases, new, None
+235, cases, active, 2555134
+235, cases, critical, 4478
+235, cases, recovered, 248663650
+235, cases, 1M_pop, None
+235, cases, total, 253320112
+235, deaths, new, None
+235, deaths, 1M_pop, None
+235, deaths, total, 2101328
+235, tests, 1M_pop, None
+235, tests, total, None
+235, day, 2024-03-25
+235, time, 2024-03-25T09:45:03+00:00
+236, continent, Oceania
+236, country, Oceania
+236, population, None
+236, cases, new, +331
+236, cases, active, 111694
+236, cases, critical, 35
+236, cases, recovered, 14730318
+236, cases, 1M_pop, None
+236, cases, total, 14874916
+236, deaths, new, None
+236, deaths, 1M_pop, None
+236, deaths, total, 32904
+236, tests, 1M_pop, None
+236, tests, total, None
+236, day, 2024-03-25
+236, time, 2024-03-25T09:45:03+00:00
+237, continent, All
+237, country, All
+237, population, None
+237, cases, new, +331
+237, cases, active, 22142516
+237, cases, critical, 35074
+237, cases, recovered, 675283876
+237, cases, 1M_pop, 90372
+237, cases, total, 704434260
+237, deaths, new, 0
+237, deaths, 1M_pop, 899.0
+237, deaths, total, 7007868
+237, tests, 1M_pop, None
+237, tests, total, None
+237, day, 2024-03-25
+237, time, 2024-03-25T09:45:03+00:00

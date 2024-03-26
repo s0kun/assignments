@@ -9,7 +9,6 @@ def main(args: Array[String]) = { // Question 1:
     val n = (20 * v).asInstanceOf[Int] / 20.0;
     f"$n-${n + 0.049 /*Incorrect for precision>3*/}%.3f"
   })
-
   print("The bucketed values: ")
   println(Q1(Seq(12.05, 12.03, 10.33, 11.45, 13.50)))
   println()
