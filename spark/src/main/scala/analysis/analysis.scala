@@ -10,7 +10,5 @@ object analyse {
       case 2 => {}
       case 3 => {}
     }
-
   }
-
 }

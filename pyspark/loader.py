@@ -81,6 +81,7 @@ class Loader(object):
             # tokens[0] is 'ID' ; tokens[-1] is 'fieldData' & tokens[1:-1] is 'fieldName' ;
             return tokens[0], ('_'.join(tokens[1:-1]), tokens[-1])
 
+        # O(n*n) steps group/reduce operation??
         safeDF = dat.map(format).groupByKey().map(lambda X: {p[0]:p[1] for p in X[1]}).toDF()
 
         return safeDF
