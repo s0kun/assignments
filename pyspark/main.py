@@ -40,13 +40,28 @@ if __name__ == "__main__":
                 self.end_headers()
                 self.wfile.write(response.encode())
             else:
-                self.send_error(404, "Not Found")
+                response = """
+                handlers = {
+                "mostAffected": lambda : procObj.deathsByCases("max"),
+                "leastAffected": lambda : procObj.deathsByCases("min"),
+                "highestCases": lambda : procObj.casesWise("max"),
+                "lowestCases": lambda : procObj.casesWise("min"),
+                "totalCases": lambda : procObj.totalCases(),
+                "mostEfficient": lambda : procObj.recoveryPerCase("max"),
+                "leastEfficient": lambda : procObj.recoveryPerCase("min"),
+                "highestCritical": lambda : Least Critical
+                "lowestCritical": lambda : Most Critical Cases
+                """
+                self.send_response(200)
+                self.end_headers()
+                self.wfile.write(response.encode())
 
-    HOST = 'localhost'
-    PORT = 8000
-    with socketserver.TCPServer((HOST, PORT), service) as httpd:
-        print(f"Serving at http://{HOST}:{PORT}")
-        httpd.serve_forever()
+
+HOST = 'localhost'
+PORT = 8000
+with socketserver.TCPServer((HOST, PORT), service) as httpd:
+    print(f"Serving at http://{HOST}:{PORT}")
+    httpd.serve_forever()
 
 
 
