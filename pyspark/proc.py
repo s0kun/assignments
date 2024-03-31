@@ -3,6 +3,30 @@ from pyspark.sql.types import *
 import pyspark.sql.functions as sqlFn
 
 
+def showTable(df):
+    # Collect data and column names as lists
+    data = df.collect()
+    columns = list(df.columns)
+
+    # Build the HTML table string
+    html = ["<table>"]
+
+    # Create the header row
+    html.append("  <tr>")
+    for col in columns:
+        html.append(f"    <th>{col}</th>")
+    html.append("  </tr>")
+
+    # Add data rows
+    for row in data:
+        html.append("  <tr>")
+        for value in row:
+            html.append(f"    <td>{value}</td>")
+        html.append("  </tr>")
+
+    html.append("</table>")
+    return "".join(html)
+
 class Proc(object):
     def __init__(self, spark: SparkSession, DF: DataFrame):
         self.spark = spark
@@ -86,7 +110,7 @@ class Proc(object):
 
         res = self.spark.sql(query)
 
-        return str(res.toJSON().collect())
+        return showTable(res)
 
     def casesWise(self, typ = "max"):
         """
@@ -108,7 +132,7 @@ class Proc(object):
 
         res = self.spark.sql(query)
 
-        return str(res.toJSON().collect())
+        return showTable(res)
 
     def totalCases(self):
         """
@@ -118,7 +142,7 @@ class Proc(object):
 
         res = self.spark.sql(query)
 
-        return str(res.toJSON().collect())
+        return showTable(res)
 
     def recoveryPerCase(self,typ="max"):
         """
@@ -148,7 +172,7 @@ class Proc(object):
 
         res = self.spark.sql(query)
 
-        return str(res.toJSON().collect())
+        return showTable(res)
 
     def criticalWise(self,typ="max"):
         """
@@ -170,6 +194,7 @@ class Proc(object):
 
         res = self.spark.sql(query)
 
-        return str(res.toJSON().collect())
+        return showTable(res)
+
 
 

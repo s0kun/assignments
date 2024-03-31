@@ -1,5 +1,5 @@
 from loader import Loader
-from proc import Proc
+from proc import Proc, showTable
 
 from pyspark.sql import SparkSession
 import http.server
@@ -40,28 +40,42 @@ if __name__ == "__main__":
                 self.end_headers()
                 self.wfile.write(response.encode())
             else:
-                response = """
-                handlers = {
-                "mostAffected": lambda : procObj.deathsByCases("max"),
-                "leastAffected": lambda : procObj.deathsByCases("min"),
-                "highestCases": lambda : procObj.casesWise("max"),
-                "lowestCases": lambda : procObj.casesWise("min"),
-                "totalCases": lambda : procObj.totalCases(),
-                "mostEfficient": lambda : procObj.recoveryPerCase("max"),
-                "leastEfficient": lambda : procObj.recoveryPerCase("min"),
-                "highestCritical": lambda : Least Critical
-                "lowestCritical": lambda : Most Critical Cases
+                # Generate HTML content for the landing page with links
+                html_content = """
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>COVID Analysis API</title>
+                </head>
+                <body>
+                    <h1>COVID-19 Analysis API Endpoints</h1>
+                    <hr>
+                    <p>Available analysis options:</p>
+                    <ul>
+                """
+
+                # Create links for each handler
+                for key, value in handlers.items():
+                    html_content += f'<li><a href="/{key}">{key.replace("_", " ")}</a></li>'
+
+                html_content += """
+                    </ul>
+                </body>
+                </html>
                 """
                 self.send_response(200)
+                self.send_header('Content-type', 'text/html')
                 self.end_headers()
-                self.wfile.write(response.encode())
+                self.wfile.write(html_content.encode())
 
+                table = showTable(procObj.filterDF)
+                self.wfile.write(table.encode())
 
-HOST = 'localhost'
-PORT = 8000
-with socketserver.TCPServer((HOST, PORT), service) as httpd:
-    print(f"Serving at http://{HOST}:{PORT}")
-    httpd.serve_forever()
+    HOST = 'localhost'
+    PORT = 8000
+    with socketserver.TCPServer((HOST, PORT), service) as httpd:
+        print(f"Serving at http://{HOST}:{PORT}")
+        httpd.serve_forever()
 
 
 
