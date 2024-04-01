@@ -23,8 +23,8 @@ if __name__ == "__main__":
         "totalCases": lambda : procObj.totalCases(),
         "mostEfficient": lambda : procObj.recoveryPerCase("max"),
         "leastEfficient": lambda : procObj.recoveryPerCase("min"),
-        "highestCritical": lambda : procObj.criticalWise("min"),
-        "lowestCritical": lambda : procObj.criticalWise("max")
+        "highestCritical": lambda : procObj.criticalWise("max"),
+        "lowestCritical": lambda : procObj.criticalWise("min")
     }
 
     class service(http.server.BaseHTTPRequestHandler):
