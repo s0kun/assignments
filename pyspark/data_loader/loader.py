@@ -33,7 +33,7 @@ class Loader(object):
         filename = self.JSONfname
 
         try:
-            with open('data_loader/'+filename,"r") as f:
+            with open('data_loader/data/'+filename,"r") as f:
                 entries = json.load(f)
             print("Data loaded from local storage")
         except Exception:
@@ -61,7 +61,7 @@ class Loader(object):
                 entries.append(flatTable(element))
 
             # Save data:
-            with open('data_loader/'+filename, "w") as f:
+            with open('data_loader/data/'+filename, "w") as f:
                 f.write(json.dumps(entries))
 
             print("Data loaded from HTTPS request to API")
