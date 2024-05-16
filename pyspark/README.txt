@@ -67,6 +67,7 @@ Running the Application
 
 1. Ensure all dependencies are installed.
 2. Run the application using the command:
+   (NOTE: The command must be executed in the top-directory 'pyspark')
     - python main.py
 3. Access the server at `http://localhost:8000` to see the available endpoints.
 
