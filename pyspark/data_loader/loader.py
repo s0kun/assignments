@@ -6,7 +6,7 @@ from pyspark.sql.types import *
 from pyspark.sql import SparkSession
 
 class Loader(object):
-    def __init__(self, spark, JSONfname="countryCovid_data.json",CSVfname = "covid_data.csv"):
+    def __init__(self, spark, JSONfname="countryCovid_data.json",CSVfname = ".covid_data.csv"):
         self.spark = spark
         self.JSONfname = JSONfname
         self.CSVfname = CSVfname
@@ -33,7 +33,7 @@ class Loader(object):
         filename = self.JSONfname
 
         try:
-            with open(filename,"r") as f:
+            with open('data_loader/'+filename,"r") as f:
                 entries = json.load(f)
             print("Data loaded from local storage")
         except Exception:
@@ -61,7 +61,7 @@ class Loader(object):
                 entries.append(flatTable(element))
 
             # Save data:
-            with open(filename, "w") as f:
+            with open('data_loader/'+filename, "w") as f:
                 f.write(json.dumps(entries))
 
             print("Data loaded from HTTPS request to API")

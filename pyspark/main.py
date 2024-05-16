@@ -1,5 +1,5 @@
-from loader import Loader
-from proc import Proc, showTable
+from data_loader.loader import Loader
+from processing.proc import Proc, showTable
 
 from pyspark.sql import SparkSession
 import http.server
