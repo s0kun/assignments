@@ -1,4 +1,5 @@
 Both files may be run as executable scripts or as interactive shells.
+Github: https://github.com/s0kun/assignments/tree/main/mentor_work/challenges
 
 Answer to Challenge 1: q1_translations.ipynb (Jupyter Notebook file)
   - Depends on data/q1_data.csv (derived from 'Product View Analysis.xlsx')
